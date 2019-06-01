@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <version value="V1.0">
+    <item key="updateInfo" value="版本号:V1.0
+1. KentCraft_City初始化
+
+更新时间:2019.06.01">
+    </item>
+    <items>
+      <items>
+        <it key=".minecraft\mods@add" value=""></it>
+        <it key=".minecraft@add" value=""></it>
+      </items>
+    </items>
+  </version>
+</config>
