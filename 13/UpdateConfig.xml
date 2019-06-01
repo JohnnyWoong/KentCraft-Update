@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<config>
+	<version value="V13.5">
+		<item key="updateInfo" value="版本号:V13.5
+1. 根据玩家推荐，新增RFTools模组，希望大家玩的开心。
+感谢大家对自动更新的信任.
+感谢大家这13周目以来对KentCraft的大力支持,祝游戏愉快！
+		
+更新时间:2017-05-08">
+		</item>
+		<items>
+			<it key="" value=".minecraft\mods\[170508-新增]-RFTools-Mod-1.7.10.jar@170508/%5B170508-%E6%96%B0%E5%A2%9E%5D-RFTools-Mod-1.7.10.jar"></it>			
+			<it key=".minecraft\mods@add" value=""></it>
+			<it key=".minecraft@add" value=""></it>
+		</items>
+	</version>
+
+	<version value="V13.4">
+		<item key="updateInfo" value="版本号:V13.4
+1. 删除MCA凡家物语模组，因其AI超额计算会爆客户端的CPU。
+感谢大家对自动更新的信任.
+感谢大家这13周目以来对KentCraft的大力支持,祝游戏愉快！
+		
+更新时间:2017-04-25">
+		</item>
+		<items>
+			<it key="" value=".minecraft\mods\凡家物语-MCA-1.7.10-5.2.2-universal.jar@remove"></it>	
+			<it key="" value=".minecraft\mods\凡家物语前置-RadixCore-1.7.10-2.1.3-universal.jar@remove"></it>
+		</items>
+	</version>
+
+	<version value="V13.3">
+		<item key="updateInfo" value="版本号:V13.3
+1. 新增四个模组，建筑玩家的福音木匠及凿子工艺，魔法师的福音，植物魔法附属魔法，以及对AM2降级到008版本。
+感谢大家对自动更新的信任.
+感谢大家这13周目以来对KentCraft的大力支持,祝游戏愉快！
+		
+更新时间:2017-04-10">
+		</item>
+		<items>
+			<it key="" value=".minecraft\mods\[13.3新增][木匠方块]Carpenter's Blocks v3.3.8 - MC 1.7.10.jar@170410/%5B13.3%E6%96%B0%E5%A2%9E%5D%5B%E6%9C%A8%E5%8C%A0%E6%96%B9%E5%9D%97%5DCarpenter%27s%20Blocks%20v3.3.8%20-%20MC%201.7.10.jar"></it>
+			<it key="" value=".minecraft\mods\[13.3新增]凿子工艺-Chisel-2.9.5.11.jar@170410/%5B13.3%E6%96%B0%E5%A2%9E%5D%E5%87%BF%E5%AD%90%E5%B7%A5%E8%89%BA-Chisel-2.9.5.11.jar"></it>
+			<it key="" value=".minecraft\mods\[13.3新增][植物魔法附属]ExtraBotany r1.0-20.jar@170410/%5B13.3%E6%96%B0%E5%A2%9E%5D%5B%E6%A4%8D%E7%89%A9%E9%AD%94%E6%B3%95%E9%99%84%E5%B1%9E%5DExtraBotany%20r1.0-20.jar"></it>
+			<it key="" value=".minecraft\mods\[13.3新改] [ 魔法艺术2 ] AM2-1.4.0.008.jar@170410/%5B13.3%E6%96%B0%E6%94%B9%5D%20%5B%20%E9%AD%94%E6%B3%95%E8%89%BA%E6%9C%AF2%20%5D%20AM2-1.4.0.008.jar"></it>			
+			<it key=".minecraft\mods@add" value=""></it>
+			<it key=".minecraft@add" value=""></it>
+			<it key="" value=".minecraft\mods\[ 魔法 ] [ 魔法艺术2 ] AM2-1.4.0.009.jar@remove"></it>			
+		</items>
+	</version>
+</config>

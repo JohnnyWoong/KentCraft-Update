@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<config>
+	<version value="V12.2">
+		<item key="updateInfo" value="版本号:V12.2
+1. 进行减模组，新增JourneyMap..
+感谢大家对自动更新的信任...
+感谢大家这11周目以来对KentCraft的大力支持,腐竹也会尽自己最大努力把KentCraft越办越好!!!
+		
+更新时间:2017-03-31">
+		</item>
+		<items>
+			<it key="" value=".minecraft\mods\journeymap-1.10.2-5.2.4-unlimited.jar@170331/journeymap-1.10.2-5.2.4-unlimited.jar"></it>
+			<it key=".minecraft\mods@add" value=""></it>
+			<it key=".minecraft@add" value=""></it>
+		</items>
+	</version>
+	
+	<version value="V12.1">
+		<item key="updateInfo" value="版本号:V12.1
+1. 进行减模组，删除JourneyMap..
+感谢大家对自动更新的信任...
+感谢大家这11周目以来对KentCraft的大力支持,腐竹也会尽自己最大努力把KentCraft越办越好!!!
+		
+更新时间:2017-03-31">
+		</item>
+		<items>
+			<it key="" value=".minecraft\mods\journeymap-1.10.2-5.4.6.jar@remove"></it>
+		</items>
+	</version>
+</config>

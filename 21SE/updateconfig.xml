@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+
+<version value="V21SE.05">
+<item key="updateInfo" value="版本号: V21SE.05
+由于少部分玩家会手动修改mod名导致失败
+本次更新启动器使之能够根据md5删除文件
+
+更新时间: 2018-11-14">
+</item>
+<items>
+<it key="" value="KentCraft智能启动器 v181114.exe@181114/更新/KentCraft智能启动器 v181114.exe"></it>
+</items>
+</version>
+
+<version value="V21SE.04">
+<item key="updateInfo" value="版本号: V21SE.04
+1.更新地下世界主体至1.0.27
+2.添加优化插件
+
+更新时间: 2018-11-09">
+</item>
+<items>
+<it key="" value=".minecraft需解压.zip@181109/更新/.minecraft需解压.zip"></it>
+<it key=".minecraft\scripts@remove" value=""></it>
+<it key=".minecraft\resources@remove" value=""></it>
+<it key=".minecraft\mods@remove" value=""></it>
+<it key=".minecraft\config@remove" value=""></it>
+<it key=".minecraft\scripts@backup" value=""></it>
+<it key=".minecraft\resources@backup" value=""></it>
+<it key=".minecraft\mods@backup" value=""></it>
+<it key=".minecraft\config@backup" value=""></it>
+</items>
+</version>
+
+<version value="V21SE.03">
+<item key="updateInfo" value="版本号: V21SE.03
+1. 新增mods——[辅助][R键整理]InventoryTweaks-1.63.jar
+2. 补充文件，解决主界面缺少背景图问题，以及加入汉化材质包
+本次更新使玩家可以在材质包中选择汉化材质包，部分任务书会以中文显示
+
+更新时间: 2018-11-05">
+</item>
+<items>
+<it key="" value=".minecraft需解压.zip@181105/更新/.minecraft需解压.zip"></it>
+</items>
+</version>
+
+</config>

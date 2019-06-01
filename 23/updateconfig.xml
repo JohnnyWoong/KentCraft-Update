@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<config>
+ 
+<version value="V23.01">
+<item key="updateInfo" value="版本号: V23.01
+1.新增mod R键整理(优化)
+
+更新时间: 2019-03-22">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[辅助][R键整理]InventoryTweaks-1.63.63.jar@190322/更新/.minecraft/mods/[辅助][R键整理]InventoryTweaks-1.63.63.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+</items>
+</version>
+
+</config>

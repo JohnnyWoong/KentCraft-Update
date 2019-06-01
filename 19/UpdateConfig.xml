@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+
+<version value="19.41">
+<item key="updateInfo" value="版本号: 19.41
+1.新增Buildcraft模组，挖矿建筑更方便
+
+更新时间: 2018-07-16">
+</item>
+<items>
+<it key="" value="KentCraft_Sade\.minecraft\mods\buildcraft-7.99.17.jar@180716更新/buildcraft-7.99.17.jar"></it>
+<it key="KentCraft_Sade\.minecraft\mods@add" value=""></it>
+<it key="KentCraft_Sade\.minecraft@add" value=""></it>
+<it key="KentCraft_19\.minecraft\mods@add" value=""></it>
+<it key="KentCraft_19\.minecraft@add" value=""></it>
+<it key="KentCraft_Sade@add" value=""></it>
+<it key="KentCraft_19@add" value=""></it>
+<it key="Backup@add" value=""></it>
+</items>
+</version>
+
+<version value="19.40">
+<item key="updateInfo" value="版本号: 19.40
+前几天KentCraft_Sade特别版崩区块了。。。
+经我们努力下，查得是植魔的锅。。因此，我们做了如下更新：
+===========存档不变==========
+1. 移除导致区块崩溃的模组——植物魔法
+2. 新增特色模组《镇守府》http://suo.im/4KmbeK
+3. 新增工业时代2
+4. 新增高级太阳能
+5. 新增Rustic建筑系模组http://suo.im/4nNY4N
+
+上次的更新：
+1. 新增监控工艺
+2. 更新匠魂模组
+KentCraft_Sade特别版已经恢复正常，欢迎回归！
+
+更新时间: 2018-07-05">
+</item>
+<items>
+<it key="" value="KentCraft_Sade\.minecraft\mods\rustic-1.0.6.jar@180705更新/rustic-1.0.6.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\industrialcraft-2-2.8.75-ex112.jar@180705更新/industrialcraft-2-2.8.75-ex112.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\ChinjufuMod[1.12.2]3.1.4.1.jar@180705更新/ChinjufuMod[1.12.2]3.1.4.1.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\Advanced+Solar+Panels-4.2.0.jar@180705更新/Advanced+Solar+Panels-4.2.0.jar"></it>
+<it key="KentCraft_Sade\.minecraft\mods@add" value=""></it>
+<it key="KentCraft_Sade\.minecraft@add" value=""></it>
+<it key="KentCraft_Sade@add" value=""></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\植物魔法-Botania r1.10-354.jar@remove"></it>
+</items>
+</version>
+
+<version value="V19.39">
+<item key="updateInfo" value="版本号: V19.39
+更新Sade特别版
+
+更新时间: 2018-07-01">
+</item>
+<items>
+<it key="" value="KentCraft_Sade\.minecraft\mods\[1.12.x]+SecurityCraft+v1.8.4.1.jar@180701更新/[1.12.x]+SecurityCraft+v1.8.4.1.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\TConstruct-1.12.2-2.10.1.87.jar@180701更新/TConstruct-1.12.2-2.10.1.87.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\jei_1.12.2-4.10.0.201.jar@180701更新/jei_1.12.2-4.10.0.201.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\ironchest-1.12.2-7.0.44.829.jar@180701更新/ironchest-1.12.2-7.0.44.829.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\InventoryTweaks-1.63.jar@180701更新/InventoryTweaks-1.63.jar"></it>
+<it key="KentCraft_Sade\.minecraft\mods@add" value=""></it>
+<it key="KentCraft_Sade\.minecraft@add" value=""></it>
+<it key="KentCraft_Sade@add" value=""></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\匠魂工艺-主体-TConstruct-1.12.2-2.10.0.81.jar@remove"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\jei_1.12.2-4.9.1.189.jar@remove"></it>
+</items>
+</version>
+
+<version value="v19.38">
+<item key="updateInfo" value="版本号: v19.38
+移除失效mod
+
+更新时间: 2018-06-20">
+</item>
+<items>
+<it key="" value="KentCraft_19\.minecraft\mods\VexView_MOD_1.7.10.jar@remove"></it>
+</items>
+</version>
+
+<version value="V19.37">
+<item key="updateInfo" value="版本号: V19.37
+KentCraft_19新增mod
+
+更新时间: 2018-06-20">
+</item>
+<items>
+<it key="" value="KentCraft_19\.minecraft\mods\VexView_MOD_1.7.10.jar@180620更新/VexView_MOD_1.7.10.jar"></it>
+<it key="KentCraft_19\.minecraft\mods@add" value=""></it>
+<it key="KentCraft_19\.minecraft@add" value=""></it>
+<it key="KentCraft_19@add" value=""></it>
+</items>
+</version>
+
+<version value="V19.36">
+<item key="updateInfo" value="版本号: V19.36
+新增3个模组
+
+更新时间: 2018-06-13">
+</item>
+<items>
+<it key="" value="KentCraft_19\.minecraft\mods\[污秽魔法]TaintedMagic-1.1.6.3.jar@180613更新/[污秽魔法]TaintedMagic-1.1.6.3.jar"></it>
+<it key="" value="KentCraft_19\.minecraft\mods\NBTEdit_1.7.10.jar@180613更新/NBTEdit_1.7.10.jar"></it>
+<it key="" value="KentCraft_19\.minecraft\mods\ChickenChunks-1.7.10-1.3.4.19-universal.jar@180613更新/ChickenChunks-1.7.10-1.3.4.19-universal.jar"></it>
+<it key="KentCraft_19\.minecraft\mods@add" value=""></it>
+<it key="KentCraft_19\.minecraft@add" value=""></it>
+<it key="KentCraft_19@add" value=""></it>
+</items>
+</version>
+
+<version value="V19.35">
+<item key="updateInfo" value="版本号: V19.35
+移除巫师宝具和前置
+
+更新时间: 2018-06-06">
+</item>
+<items>
+<it key="" value="KentCraft_19\.minecraft\mods\[巫师宝具前置]TravellersGear-1.7.10-1.16.6.jar@remove"></it>
+<it key="" value="KentCraft_19\.minecraft\mods\[巫师宝具]WitchingGadgets-1.7.10-1.1.10.jar@remove"></it>
+</items>
+</version>
+
+<version value="19.34">
+<item key="updateInfo" value="版本号: 19.34
+补增上次更新缺少的模组
+
+更新时间: 2018-06-06">
+</item>
+<items>
+<it key="" value="KentCraft_19\.minecraft\mods\[巫师宝具前置]TravellersGear-1.7.10-1.16.6.jar@180606更新/[巫师宝具前置]TravellersGear-1.7.10-1.16.6.jar"></it>
+<it key="KentCraft_19\.minecraft\mods@add" value=""></it>
+<it key="KentCraft_19\.minecraft@add" value=""></it>
+<it key="KentCraft_19@add" value=""></it>
+</items>
+</version>
+
+<version value="19.33">
+<item key="updateInfo" value="版本号: 19.33
+19周目新增4个模组
+
+更新时间: 2018-06-06">
+</item>
+<items>
+<it key="" value="KentCraft_19\.minecraft\mods\[量子魔法]Technomancy - 0.12.5 - 1.7.10.jar@180606更新/[量子魔法]Technomancy - 0.12.5 - 1.7.10.jar"></it>
+<it key="" value="KentCraft_19\.minecraft\mods\[神秘能源]thaumicenergistics-1.0.0.5.jar@180606更新/[神秘能源]thaumicenergistics-1.0.0.5.jar"></it>
+<it key="" value="KentCraft_19\.minecraft\mods\[沉浸工艺]ImmersiveEngineering-0.7.7.jar@180606更新/[沉浸工艺]ImmersiveEngineering-0.7.7.jar"></it>
+<it key="" value="KentCraft_19\.minecraft\mods\[巫师宝具]WitchingGadgets-1.7.10-1.1.10.jar@180606更新/[巫师宝具]WitchingGadgets-1.7.10-1.1.10.jar"></it>
+<it key="KentCraft_19\.minecraft\mods@add" value=""></it>
+<it key="KentCraft_19\.minecraft@add" value=""></it>
+<it key="KentCraft_19@add" value=""></it>
+</items>
+</version>
+
+<version value="V19.32">
+<item key="updateInfo" value="版本号: V19.32
+移除无用模组
+
+更新时间: 2018-06-04">
+</item>
+<items>
+<it key="" value="KentCraft_19\.minecraft\mods\[天气]weather2-1.7.10-2.3.19.jar@remove"></it>
+<it key="" value="KentCraft_19\.minecraft\mods\[史诗攻城]EpicSiegeMod-10.0.148.jar@remove"></it>
+</items>
+</version>
+
+<version value="19.31">
+<item key="updateInfo" value="版本号: 19.31
+现在支持同时玩耍多个客户端了
+语音频道由原来的一个扩展为两个
+
+更新时间: 2018-06-02">
+</item>
+<items>
+<it key="" value="KentCraft_Sade\KentCraft启动器.exe@180602更新/KentCraft.exe"></it>
+<it key="" value="KentCraft_19\KentCraft启动器.exe@180602更新/KentCraft.exe"></it>
+<it key="" value="KentCraft智能启动器 v180602.exe@new@180602更新/KentCraft智能启动器 v180602.exe"></it>
+<it key="" value="KentCraft.exe@180602更新/KentCraft.exe"></it>
+<it key="KentCraft_Sade@add" value=""></it>
+<it key="KentCraft_19@add" value=""></it>
+</items>
+</version>
+
+<version value="V19.30">
+<item key="updateInfo" value="版本号: V19.30
+现在可以自动加入KentCraft的语音频道了
+
+更新时间: 2018-05-30">
+</item>
+<items>
+<it key="" value="KentCraft.exe@180530更新/KentCraft启动器.exe"></it>
+</items>
+</version>
+
+<version value="19.29">
+<item key="updateInfo" value="版本号: 19.29
+欢迎点击上方连接加入KentCraft大家庭
+我们随时欢迎新人的加入(〃'▽'〃)
+
+以下为KentCraft_Sade版本的更新
+新增方块信息
+新增匠魂
+新增末影接口
+新增无中生有
+新增植物魔法
+
+更新时间: 2018-05-30">
+</item>
+<items>
+<it key="" value="KentCraft_Sade\.minecraft\mods\魔法类通用-前置-Baubles-1.12-1.5.2.jar@180530更新/魔法类通用-前置-Baubles-1.12-1.5.2.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\植物魔法-Botania r1.10-354.jar@180530更新/植物魔法-Botania r1.10-354.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\末影接口-核心-EnderCore-1.12.2-0.5.30.jar@180530更新/末影接口-核心-EnderCore-1.12.2-0.5.30.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\末影接口-主体-EnderIO-1.12.2-5.0.25.jar@180530更新/末影接口-主体-EnderIO-1.12.2-5.0.25.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\无中生有-压缩工具-ExCompressum_1.12.2-3.0.20.jar@180530更新/无中生有-压缩工具-ExCompressum_1.12.2-3.0.20.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\无中生有-exnihilocreatio-1.12-0.2.2.jar@180530更新/无中生有-exnihilocreatio-1.12-0.2.2.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\方块信息-Hwyla-1.8.25-B40_1.12.jar@180530更新/方块信息-Hwyla-1.8.25-B40_1.12.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\匠魂工艺-前置-Mantle-1.12-1.3.2.24.jar@180530更新/匠魂工艺-前置-Mantle-1.12-1.3.2.24.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\匠魂工艺-主体-TConstruct-1.12.2-2.10.0.81.jar@180530更新/匠魂工艺-主体-TConstruct-1.12.2-2.10.0.81.jar"></it>
+<it key="KentCraft_Sade\.minecraft\mods@add" value=""></it>
+<it key="KentCraft_Sade\.minecraft@add" value=""></it>
+<it key="KentCraft_Sade@add" value=""></it>
+</items>
+</version>
+	
+<version value="19.27">
+<item key="updateInfo" value="版本号: 19.27
+欢迎点击上方连接加入KentCraft大家庭
+我们随时欢迎新人的加入(〃'▽'〃)
+本次更新修复无法正常启动对应客户端的问题       
+
+更新时间: 2018-05-25">
+</item>
+<items>
+<it key="" value="KentCraft_Sade\KentCraft启动器.exe@180525更新/KentCraft.exe"></it>
+<it key="" value="KentCraft_19\KentCraft启动器.exe@180525更新/KentCraft.exe"></it>
+<it key="" value="KentCraft_19.log@180525更新/KentCraft_19.log"></it>
+<it key="" value="KentCraft_19.json@180525更新/KentCraft_19.json"></it>
+<it key="" value="KentCraft.exe@180525更新/KentCraft.exe"></it>
+<it key="" value="hmcl.log@180525更新/hmcl.log"></it>
+<it key="" value="hmcl.json@180525更新/hmcl.json"></it>
+<it key="KentCraft_Sade@add" value=""></it>
+<it key="KentCraft_19@add" value=""></it>
+</items>
+</version>
+
+<version value="19.26">
+<item key="updateInfo" value="版本号: 19.26
+KentCraft_19新增史诗攻城以及合成冲突
+
+更新时间: 2018-05-25">
+</item>
+<items>
+<it key="" value="KentCraft_19\.minecraft\mods\[史诗攻城]EpicSiegeMod-10.0.148.jar@180525更新/[史诗攻城]EpicSiegeMod-10.0.148.jar"></it>
+<it key="" value="KentCraft_19\.minecraft\mods\NoMoreRecipeConflict-0.2(1.7.10).jar@180525更新/NoMoreRecipeConflict-0.2(1.7.10).jar"></it>
+<it key="KentCraft_19\.minecraft\mods@add" value=""></it>
+<it key="KentCraft_19\.minecraft@add" value=""></it>
+<it key="KentCraft_19@add" value=""></it>
+</items>
+</version>
+
+<version value="19.25">
+<item key="updateInfo" value="版本号: 19.25
+欢迎点击上方连接加入KentCraft大家庭
+我们随时欢迎新人的加入(〃'▽'〃)
+KentCraft_Sade特别版新增两个mod
+感谢大家的游玩
+
+更新时间: 2018-05-23">
+</item>
+<items>
+<it key="" value="KentCraft_Sade\.minecraft\mods\SanLib-1.12.2-1.4.2.jar@180523更新/SanLib-1.12.2-1.4.2.jar"></it>
+<it key="" value="KentCraft_Sade\.minecraft\mods\ClaySoldiersMod-1.12.2-3.0.0-alpha.9.1.jar@180523更新/ClaySoldiersMod-1.12.2-3.0.0-alpha.9.1.jar"></it>
+<it key="KentCraft_Sade\.minecraft\mods@add" value=""></it>
+<it key="KentCraft_Sade\.minecraft@add" value=""></it>
+</items>
+</version>
+
+<version value="19.23">
+<item key="updateInfo" value="版本号: 19.23
+欢迎点击上方连接加入KentCraft大家庭
+我们随时欢迎新人的加入(〃'▽'〃)
+今天新增KentCraft_Sade特别版
+感谢大家的游玩
+
+更新时间: 2018-05-23">
+</item>
+<items>
+<it key="" value="KentCraft智能启动器 v180523.exe@new@180523更新/KentCraft智能启动器 v180523.exe"></it>
+<it key="" value="KentCraft_Sade特别版需解压.zip@180523更新/KentCraft_Sade特别版需解压.zip"></it>
+<it key="" value="KentCraft.exe@180523更新/KentCraft.exe"></it>
+<it key="" value="kentcraft.exe@cut@KentCraft_19/kentcraft.exe"></it>
+<it key="" value="hmcl.log@cut@KentCraft_19/hmcl.log"></it>
+<it key="" value="hmcl.json@cut@KentCraft_19/hmcl.json"></it>
+<it key="Backup@cut@KentCraft_19/Backup" value=""></it>
+<it key=".minecraft@cut@KentCraft_19/.minecraft" value=""></it>
+<it key="KentCraft_19@add" value=""></it>
+</items>
+</version>
+
+<version value="19.01">
+<item key="updateInfo" value="版本号: 19.01
+欢迎点击上方连接加入KentCraft大家庭
+我们随时欢迎新人的加入(〃'▽'〃)
+19周目正式开启
+
+更新时间: 2018-05-21">
+</item>
+<items>
+<it key="" value=".minecraft\mods\GraveStone+Mod+0.7.10.3.jar@remove"></it>
+</items>
+</version>
+
+<version value="19">
+<item key="updateInfo" value="版本号: 19
+欢迎点击上方连接加入KentCraft大家庭
+我们随时欢迎新人的加入(〃'▽'〃)
+19周目正式开启
+
+更新时间: 2018-05-21">
+</item>
+<items>
+<it key="" value=".minecraft\mods\OpenModsLib-1.7.10-0.10.jar@180521更新/.minecraft/mods/OpenModsLib-1.7.10-0.10.jar"></it>
+<it key="" value=".minecraft\mods\OpenBlocks-1.7.10-1.6.jar@180521更新/.minecraft/mods/OpenBlocks-1.7.10-1.6.jar"></it>
+<it key="" value=".minecraft\mods\mod_voxelMap_1.7.0b_for_1.7.10.litemod@180521更新/.minecraft/mods/mod_voxelMap_1.7.0b_for_1.7.10.litemod"></it>
+<it key="" value=".minecraft\mods\liteloader-1.7.10.jar@180521更新/.minecraft/mods/liteloader-1.7.10.jar"></it>
+<it key="" value=".minecraft\mods\GraveStone+Mod+0.7.10.3.jar@180521更新/.minecraft/mods/GraveStone+Mod+0.7.10.3.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value="mods\内存清理.jar@remove"></it>
+<it key="" value="mods\[本地][ 地图 ]MapWriter-1.7.10-2.1.10.jar@remove"></it>
+<it key="" value="mods\mcmap.cc-[死亡墓碑MOD][1.7.10].jar@remove"></it>
+</items>
+</version>
+
+<version value="19Beta">
+<item key="updateInfo" value="版本号: 19Beta
+欢迎点击上方连接加入KentCraft大家庭
+我们随时欢迎新人的加入(〃'▽'〃)
+19周目测试开启
+
+更新时间: 2018-05-21">
+</item>
+<items>
+<it key="" value="KentCraft_19需解压.zip@180521更新/KentCraft_19需解压.zip"></it>
+<it key="Backup@add" value=""></it>
+</items>
+</version>
+
+</config>

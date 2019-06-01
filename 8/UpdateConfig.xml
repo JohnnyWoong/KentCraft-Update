@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  这个XML文件是放在服务器上的
+  需在程序初始化里添加以下代码即可:
+  if (!Jnw.Common.FileHelper.IsExistFile("更新日志.txt"))
+  {
+      Jnw.Common.FileHelper.CreateFile("更新日志.txt");
+  }
+  Jnw.Common.AutoUpdate au = new Jnw.Common.AutoUpdate("IP地址", "\\\\IP地址\\共享文件夹名\\UpdateConfig.xml", "更新日志.txt", System.Environment.CurrentDirectory + "\\");
+  //更新程序
+  if (au.CheckUpdate("IP地址", "共享文件夹名", "用户名", "密码", "版本号:"))
+  {
+      au.OpenUpdate("AutoUpdate.exe");
+  }
+  或
+  if (!Jnw.Common.FileHelper.IsExistFile("更新日志.txt"))
+  {
+      Jnw.Common.FileHelper.CreateFile("更新日志.txt");
+  }
+  Jnw.Common.AutoUpdate au = new Jnw.Common.AutoUpdate("下载地址路径", "服务器地址路径/UpdateConfig.xml", "更新日志.txt", System.Environment.CurrentDirectory + "\\");
+  //更新程序
+  if (au.CheckUpdate("版本号:"))
+  {
+      au.OpenUpdate("AutoUpdate.exe");
+  }
+-->
+<config>
+	<version value="V8.045">
+    <item key="updateInfo" value="版本号:V8.045
+1. 修复豆腐工艺有可能导致客户端崩溃问题
+
+更新时间:2016-08-03">
+    </item>
+    <items>
+		  <it key="" value=".minecraft\config\TofuCraft.cfg@160803/TofuCraft.cfg"></it>
+      <it key=".minecraft\config@add" value=""></it>
+      <it key=".minecraft@add" value=""></it>
+    </items>
+  </version>
+  
+  
+  
+	<version value="V8.04">
+    <item key="updateInfo" value="版本号:V8.04
+1. 新增考古学家前置mod
+2. 更新考古学家至7.3.1
+注:由于此次更新补丁较大,如出现进度条停顿实为正常现象,请耐心等待!
+
+更新时间:2016-07-26">
+    </item>
+    <items>
+		  <it key="" value=".minecraft\mods\11-考古学家-Fossils_Archeology_Revival-1.7.10_Build-7.2.1.jar@remove"></it>
+		  <it key="" value=".minecraft\mods\11-考古学家-fossilsarcheology-7.3.1汉化By_Ky.jar@160726/11-%E8%80%83%E5%8F%A4%E5%AD%A6%E5%AE%B6-fossilsarcheology-7.3.1%E6%B1%89%E5%8C%96By_Ky.jar"></it>
+		  <it key="" value=".minecraft\mods\11-考古前置-llibrary-1.4.2-1.7.10.jar@160726/11-%E8%80%83%E5%8F%A4%E5%89%8D%E7%BD%AE-llibrary-1.4.2-1.7.10.jar"></it>
+      <it key=".minecraft\mods@add" value=""></it>
+      <it key=".minecraft@add" value=""></it>
+    </items>
+  </version>
+  
+  
+  
+	<version value="V8.035">
+    <item key="updateInfo" value="版本号:V8.035
+1. 更新OptiFine至HD_U_D6
+
+更新时间:2016-07-18">
+    </item>
+    <items>
+		  <it key="" value=".minecraft\mods\Z-高清修复-OptiFine_1.7.10_HD_C1.jar@remove"></it>
+		  <it key="" value=".minecraft\mods\Z-高清修复-OptiFine_1.7.10_HD_U_D6_MOD.jar@160718/Z-%E9%AB%98%E6%B8%85%E4%BF%AE%E5%A4%8D-OptiFine_1.7.10_HD_U_D6_MOD.jar"></it>
+      <it key=".minecraft\mods@add" value=""></it>
+      <it key=".minecraft@add" value=""></it>
+    </items>
+  </version>
+  
+  
+  
+  <version value="V8.03">
+    <item key="updateInfo" value="版本号:V8.03
+1. 更多实用设备
+2. 更多实用设备前置
+3. 客户端优化Fastcraft
+4. 更新Openblock模组
+5. 移除我的环境
+
+更新时间:2016-07-12">
+    </item>
+    <items>
+		  <it key="" value=".minecraft\mods\14-我的环境-Core-EnviroMine-v1.2.28.jar@remove"></it>
+		  <it key="" value=".minecraft\mods\Z-开放方块2-OpenModsLib-1.7.10-0.8.jar@remove"></it>
+		  <it key="" value=".minecraft\mods\Z-开放方块1-OpenBlocks-1.7.10-1.4.4.jar@remove"></it>
+		  <it key="" value=".minecraft\mods\Z-客户端优化-fastcraft-1.21.jar@160712/Z-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BC%98%E5%8C%96-fastcraft-1.21.jar"></it>
+      <it key="" value=".minecraft\mods\Z-开放方块2-OpenModsLib-1.7.10-0.9.1.jar@160712/Z-%E5%BC%80%E6%94%BE%E6%96%B9%E5%9D%972-OpenModsLib-1.7.10-0.9.1.jar"></it>
+      <it key="" value=".minecraft\mods\Z-开放方块1-OpenBlocks-1.7.10-1.5.1.jar@160712/Z-%E5%BC%80%E6%94%BE%E6%96%B9%E5%9D%971-OpenBlocks-1.7.10-1.5.1.jar"></it>
+      <it key="" value=".minecraft\mods\21-更多实用设备extrautilities-1.2.12.jar@160712/21-%E6%9B%B4%E5%A4%9A%E5%AE%9E%E7%94%A8%E8%AE%BE%E5%A4%87extrautilities-1.2.12.jar"></it>
+      <it key="" value=".minecraft\mods\21-更多实用设备前置EnderCore-1.7.10-0.2.0.35_beta.jar@160712/21-%E6%9B%B4%E5%A4%9A%E5%AE%9E%E7%94%A8%E8%AE%BE%E5%A4%87%E5%89%8D%E7%BD%AEEnderCore-1.7.10-0.2.0.35_beta.jar"></it>
+      <it key=".minecraft\mods@add" value=""></it>
+      <it key=".minecraft@add" value=""></it>
+    </items>
+  </version>
+  
+  
+  
+  <!--
+    创建人:Johnny Wong
+    创建时间:2016-07-09
+    修改时间:2016-07-10
+    说明:版本号
+  -->
+  <version value="V8.01">
+    <!--
+      Author:Johnny Wong
+      Time:2013-08-26
+      EditTime:2016-07-10
+      Info:追加的更新日志
+    -->
+    <item key="updateInfo" value="版本号:V8.01
+1.新增史诗攻城mod
+2.新增凿子工艺mod
+3.新增木匠工艺mod
+4.新增和风mod
+
+更新时间:2016-07-07">
+    </item>
+    <!--
+      Author:Johnny Wong
+      Time:2013-08-26
+      EditTime:2016-07-10
+      Info:更新文件
+            key(程序路径@添加或删除)      value(程序文件路径@服务器文件路径或删除)
+                        @add remove                         @remove
+    -->
+    <items>
+      <it key="" value=".minecraft\mods\20-和风-Bamboo-2.6.8.5.jar@160707\20-%E5%92%8C%E9%A3%8E-Bamboo-2.6.8.5.jar"></it>
+      <it key="" value=".minecraft\mods\17-木匠工艺-Carpenter's Blocks v3.3.8_dev_r8 - MC 1.7.10.jar@160707\17-%E6%9C%A8%E5%8C%A0%E5%B7%A5%E8%89%BA-Carpenter%27s%20Blocks%20v3.3.8_dev_r8%20-%20MC%201.7.10.jar"></it>
+      <it key="" value=".minecraft\mods\16-凿子工艺-Chisel-2.9.5.11.jar@160707\16-%E5%87%BF%E5%AD%90%E5%B7%A5%E8%89%BA-Chisel-2.9.5.11.jar"></it>
+      <it key="" value=".minecraft\mods\15-史诗攻城-EpicSiegeMod-10.0.148.jar@160707\15-%E5%8F%B2%E8%AF%97%E6%94%BB%E5%9F%8E-EpicSiegeMod-10.0.148.jar"></it>
+      <it key=".minecraft\mods@add" value=""></it>
+      <it key=".minecraft@add" value=""></it>
+    </items>
+  </version>
+</config>

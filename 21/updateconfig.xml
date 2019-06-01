@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+
+<version value="V21.26">
+<item key="updateInfo" value="版本号: V21.26
+1.新增养鸡大法! 养鸡致富!
+2.移除无中生有
+
+我们承诺永久保留建筑作品！
+
+更新时间: 2018-12-13">
+</item>
+<items>
+<it key="" value=".minecraft\mods\roost-1.12-1.2.0.jar@181213更新/roost-1.12-1.2.0.jar"></it>
+<it key="" value=".minecraft\mods\morechickens-1.12.2-3.1.0.jar@181213更新/morechickens-1.12.2-3.1.0.jar"></it>
+<it key="" value=".minecraft\mods\hatchery-1.12.2-2.1.4.jar@181213更新/hatchery-1.12.2-2.1.4.jar"></it>
+<it key="" value=".minecraft\mods\chickens-6.1.0.jar@181213更新/chickens-6.1.0.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods@remove@37316D4DF1D703373E982AE7698D241E"></it>
+<it key="" value=".minecraft\mods@remove@115F76B514E1612A6B3078D729657D87"></it>
+</items>
+</version>
+
+<version value="V21.25">
+<item key="updateInfo" value="版本号: V21.25
+由于少部分玩家会手动修改mod名导致失败
+本次更新启动器使之能够根据md5删除文件
+
+更新时间: 2018-11-14">
+</item>
+<items>
+<it key="" value="KentCraft智能启动器 v181114.exe@181114更新/KentCraft智能启动器 v181114.exe"></it>
+</items>
+</version>
+
+<version value="V21.24">
+<item key="updateInfo" value="版本号: V21.24
+1.加回Flanmod
+
+更新时间: 2018-11-06">
+</item>
+<items>
+<it key="" value=".minecraft\mods\Flan's Mod-1.12.2-5.5.2.jar@181106更新/Flan's Mod-1.12.2-5.5.2.jar"></it>
+<it key="" value=".minecraft\Flan\Zombie-Content Pack-1.12.2-5.5.2.jar@181106更新/Zombie-Content Pack-1.12.2-5.5.2.jar"></it>
+<it key="" value=".minecraft\Flan\Ye Olde-Content Pack-1.12.2-5.5.2.jar@181106更新/Ye Olde-Content Pack-1.12.2-5.5.2.jar"></it>
+<it key="" value=".minecraft\Flan\WW2-Content Pack-1.12.2-5.5.2.jar@181106更新/WW2-Content Pack-1.12.2-5.5.2.jar"></it>
+<it key="" value=".minecraft\Flan\Titan-Content Pack-1.12.2-5.5.2.jar@181106更新/Titan-Content Pack-1.12.2-5.5.2.jar"></it>
+<it key="" value=".minecraft\Flan\Simple Parts-Content Pack-1.12.2-5.5.2.jar@181106更新/Simple Parts-Content Pack-1.12.2-5.5.2.jar"></it>
+<it key="" value=".minecraft\Flan\Nerf-Content Pack-1.12.2-5.5.2.jar@181106更新/Nerf-Content Pack-1.12.2-5.5.2.jar"></it>
+<it key="" value=".minecraft\Flan\Modern Warfare-Content Pack-1.12.2-5.5.2.jar@181106更新/Modern Warfare-Content Pack-1.12.2-5.5.2.jar"></it>
+<it key="" value=".minecraft\Flan\Mecha Parts-Content Pack-1.12.2-5.5.2.jar@181106更新/Mecha Parts-Content Pack-1.12.2-5.5.2.jar"></it>
+<it key="" value=".minecraft\Flan\Apocalypse-Content Pack-1.12.2-5.5.2.jar@181106更新/Apocalypse-Content Pack-1.12.2-5.5.2.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft\Flan@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+</items>
+</version>
+
+<version value="V21.23">
+<item key="updateInfo" value="版本号: V21.23
+1.移除枪械Flan、镇守府、黏土士兵
+2.盆栽BonsaiTrees
+
+更新时间: 2018-10-30">
+</item>
+<items>
+<it key="" value=".minecraft\mods\bonsaitrees-1.1.1-b138.jar@181030更新/bonsaitrees-1.1.1-b138.jar"></it>
+<it key="" value=".minecraft\mods\BetterFps-1.4.8.jar@181030更新/BetterFps-1.4.8.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key=".minecraft\Flan@remove" value=""></it>
+<it key="" value=".minecraft\mods\Flan's Mod-1.12.2-5.5.2.jar@remove"></it>
+<it key="" value=".minecraft\mods\ClaySoldiersMod-1.12.2-3.0.0-alpha.9.1.jar@remove"></it>
+<it key="" value=".minecraft\mods\ChinjufuMod[1.12.2]3.1.4.1.jar@remove"></it>
+</items>
+</version>
+	
+<version value="V21.22">
+<item key="updateInfo" value="版本号: V21.22
+1. 更...更...更新Forge
+2.更新启动器
+备注: 如果新版本启动器打开乱码,请到Backup目录恢复旧版本启动器
+
+更新时间: 2018-10-15">
+</item>
+<items>
+<it key="" value=".minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.4.2705\forge-1.12.2-14.23.4.2705.jar@181015更新/forge-1.12.2-14.23.4.2705.jar"></it>
+<it key="" value="KentCraft.exe@181015更新/KentCraft.exe"></it>
+<it key="" value="hmcl.json@181015更新/hmcl.json"></it>
+<it key=".minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.4.2705@add" value=""></it>
+<it key=".minecraft\libraries\net\minecraftforge\forge@add" value=""></it>
+<it key=".minecraft\libraries\net\minecraftforge@add" value=""></it>
+<it key=".minecraft\libraries\net@add" value=""></it>
+<it key=".minecraft\libraries@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value="KentCraft.exe@backup"></it>
+<it key="" value="hmcl.json@backup"></it>
+<it key="Backup@add" value=""></it>
+</items>
+</version>
+
+<version value="V21.21">
+<item key="updateInfo" value="版本号: V21.21
+1.更...更新forge
+
+更新时间: 2018-10-15">
+</item>
+<items>
+<it key="" value=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705-natives\SAPIWrapper_x86.dll@181015更新/SAPIWrapper_x86.dll"></it>
+<it key="" value=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705-natives\SAPIWrapper_x64.dll@181015更新/SAPIWrapper_x64.dll"></it>
+<it key="" value=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705-natives\OpenAL64.dll@181015更新/OpenAL64.dll"></it>
+<it key="" value=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705-natives\OpenAL32.dll@181015更新/OpenAL32.dll"></it>
+<it key="" value=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705-natives\lwjgl64.dll@181015更新/lwjgl64.dll"></it>
+<it key="" value=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705-natives\lwjgl.dll@181015更新/lwjgl.dll"></it>
+<it key="" value=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705-natives\jinput-wintab.dll@181015更新/jinput-wintab.dll"></it>
+<it key="" value=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705-natives\jinput-raw_64.dll@181015更新/jinput-raw_64.dll"></it>
+<it key="" value=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705-natives\jinput-raw.dll@181015更新/jinput-raw.dll"></it>
+<it key="" value=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705-natives\jinput-dx8_64.dll@181015更新/jinput-dx8_64.dll"></it>
+<it key="" value=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705-natives\jinput-dx8.dll@181015更新/jinput-dx8.dll"></it>
+<it key="" value=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705.json@181015更新/1.12.2-forge1.12.2-14.23.4.2705.json"></it>
+<it key="" value=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705.jar@181015更新/1.12.2-forge1.12.2-14.23.4.2705.jar"></it>
+<it key=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705\1.12.2-forge1.12.2-14.23.4.2705-natives@add" value=""></it>
+<it key=".minecraft\versions\1.12.2-forge1.12.2-14.23.4.2705@add" value=""></it>
+<it key=".minecraft\versions@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key=".minecraft\versions\1.12.2-forge1.12.2-14.23.3.2702@remove" value=""></it>
+</items>
+</version>
+
+<version value="V21.20">
+<item key="updateInfo" value="版本号: V21.20
+0. Forge版本升级
+1. 新增【热力膨胀TE】【应用能源AE】【创世神WE】
+2. 更新【末影接口EIO】【Spongeforge】
+
+更新时间: 2018-10-15">
+</item>
+<items>
+<it key="" value=".minecraft\mods\worldedit-forge-mc1.12-6.1.8-dist.jar@181015更新/worldedit-forge-mc1.12-6.1.8-dist.jar"></it>
+<it key="" value=".minecraft\mods\WorldEdit+CUI+Forge+Edition+2-2.1.2-mf-1.12.2-14.23.0.2487.jar@181015更新/WorldEdit+CUI+Forge+Edition+2-2.1.2-mf-1.12.2-14.23.0.2487.jar"></it>
+<it key="" value=".minecraft\mods\ThermalFoundation-1.12.2-2.5.0.19-universal.jar@181015更新/ThermalFoundation-1.12.2-2.5.0.19-universal.jar"></it>
+<it key="" value=".minecraft\mods\ThermalExpansion-1.12.2-5.5.0.29-universal.jar@181015更新/ThermalExpansion-1.12.2-5.5.0.29-universal.jar"></it>
+<it key="" value=".minecraft\mods\ThermalDynamics-1.12.2-2.5.1.14-universal.jar@181015更新/ThermalDynamics-1.12.2-2.5.1.14-universal.jar"></it>
+<it key="" value=".minecraft\mods\ThermalCultivation-1.12.2-0.3.0.7-universal.jar@181015更新/ThermalCultivation-1.12.2-0.3.0.7-universal.jar"></it>
+<it key="" value=".minecraft\mods\spongeforge-1.12.2-2705-7.1.0-BETA-3361.jar@181015更新/spongeforge-1.12.2-2705-7.1.0-BETA-3361.jar"></it>
+<it key="" value=".minecraft\mods\RedstoneFlux-1.12-2.0.2.3-universal.jar@181015更新/RedstoneFlux-1.12-2.0.2.3-universal.jar"></it>
+<it key="" value=".minecraft\mods\EnderIO-1.12.2-5.0.33.jar@181015更新/EnderIO-1.12.2-5.0.33.jar"></it>
+<it key="" value=".minecraft\mods\EnderCore-1.12.2-0.5.41.jar@181015更新/EnderCore-1.12.2-0.5.41.jar"></it>
+<it key="" value=".minecraft\mods\CoFHWorld-1.12.2-1.2.0.5-universal.jar@181015更新/CoFHWorld-1.12.2-1.2.0.5-universal.jar"></it>
+<it key="" value=".minecraft\mods\CoFHCore-1.12.2-4.5.2.19-universal.jar@181015更新/CoFHCore-1.12.2-4.5.2.19-universal.jar"></it>
+<it key="" value=".minecraft\mods\CodeChickenLib-1.12.2-3.2.0.345-universal.jar@181015更新/CodeChickenLib-1.12.2-3.2.0.345-universal.jar"></it>
+<it key="" value=".minecraft\mods\appliedenergistics2-1.12.2--rv6-stable-1.jar@181015更新/appliedenergistics2-1.12.2--rv6-stable-1.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods\末影接口-核心-EnderCore-1.12.2-0.5.30.jar@remove"></it>
+<it key="" value=".minecraft\mods\末影接口-主体-EnderIO-1.12.2-5.0.25.jar@remove"></it>
+<it key="" value=".minecraft\mods\spongeforge-1.12.2-2586-7.1.0-BETA-2893.jar@remove"></it>
+<it key="" value=".minecraft\mods\CodeChickenLib-1.12.2-3.1.8.341-universal.jar@remove"></it>
+</items>
+</version>
+
+<version value="V21.14">
+<item key="updateInfo" value="版本号: V21.14
+1.新增家具mod
+
+更新时间: 2018-10-13">
+</item>
+<items>
+<it key="" value=".minecraft\mods\furniture-5.14.0-1.12.2.jar@181013更新/furniture-5.14.0-1.12.2.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+</items>
+</version>
+
+<version value="21.13">
+<item key="updateInfo" value="版本号: 21.13
+1.移除无用文件
+
+更新时间: 2018-10-13">
+</item>
+<items>
+<it key="Backup@remove" value=""></it>
+<it key="" value="KentCraft_21智能启动器v180717.exe@remove"></it>
+</items>
+</version>
+
+<version value="V21.12">
+<item key="updateInfo" value="版本号: V21.12
+1.更新智能启动器
+
+更新时间: 2018-10-13">
+</item>
+<items>
+<it key="" value="KentCraft智能启动器 v181013.exe@181013更新/KentCraft智能启动器 v181013.exe"></it>
+</items>
+</version>
+
+</config>

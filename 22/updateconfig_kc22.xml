@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+
+<version value="V22.28">
+<item key="updateInfo" value="版本号: V22.28
+1.紧急修复更新器严重bug
+本次更新会重启更新器
+以修复上次bug导致的错误更新
+
+更新时间: 2019-01-14">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[装饰][可放置的物品]placeableitems-3.3.jar@190114/更新/.minecraft/mods/[装饰][可放置的物品]placeableitems-3.3.jar"></it>
+<it key="" value=".minecraft\mods\[生物][自定义NPC]CustomNPCs_1.12.2(26aug18).jar@190114/更新/.minecraft/mods/[生物][自定义NPC]CustomNPCs_1.12.2(26aug18).jar"></it>
+<it key="" value=".minecraft\mods\[核心][网页浏览器前置]mcef-1.12.2-0.9.jar@190114/更新/.minecraft/mods/[核心][网页浏览器前置]mcef-1.12.2-0.9.jar"></it>
+<it key="" value=".minecraft\mods\[建筑][可视化建筑]Schematics-1.12.2.12.jar@190114/更新/.minecraft/mods/[建筑][可视化建筑]Schematics-1.12.2.12.jar"></it>
+<it key="" value=".minecraft\mods\[功能][网页浏览器]appsmod-1.5.1.jar@190114/更新/.minecraft/mods/[功能][网页浏览器]appsmod-1.5.1.jar"></it>
+<it key="" value=".minecraft\mods\[功能][可视化自定义合成表]MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar@190114/更新/.minecraft/mods/[功能][可视化自定义合成表]MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods@remove@16521EFBB0024592C1F0577F284A223D"></it>
+<it key="" value=".minecraft\mods@remove@DE33A15E3D859F953B5A61052AB341AB"></it>
+<it key="" value=".minecraft\mods@remove@DBDB8E026EC019F49EA873C9C2A130B3"></it>
+<it key="" value=".minecraft\mods@remove@CC1669F62AFADB593747853AB5865CAB"></it>
+<it key="" value=".minecraft\mods@remove@712F94C1823E6177F1DDCE4262AB2ACF"></it>
+<it key="update190114@update190114" value="update190114@update190114"></it>
+<it key="" value="KentCraft智能启动器 v190114.exe@190114/更新/KentCraft智能启动器 v190114.exe"></it>
+<it key="" value="KentCraft智能启动器 v190114.exe@190114/更新/KentCraft智能启动器 v190114.exe"></it>
+</items>
+</version>
+
+<version value="V22.27">
+<item key="updateInfo" value="版本号: V22.27
+1.添加自定义NPC
+2.添加游戏内置网页浏览器
+3.添加可视化建筑
+4.添加可放置物品
+5.添加可视化自定义合成表
+6.删除已弃用的不稳定的汽车mod
+
+更新时间: 2019-01-14">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[装饰][可放置的物品]placeableitems-3.3.jar@190114/更新/.minecraft/mods/[装饰][可放置的物品]placeableitems-3.3.jar"></it>
+<it key="" value=".minecraft\mods\[生物][自定义NPC]CustomNPCs_1.12.2(26aug18).jar@190114/更新/.minecraft/mods/[生物][自定义NPC]CustomNPCs_1.12.2(26aug18).jar"></it>
+<it key="" value=".minecraft\mods\[核心][网页浏览器前置]mcef-1.12.2-0.9.jar@190114/更新/.minecraft/mods/[核心][网页浏览器前置]mcef-1.12.2-0.9.jar"></it>
+<it key="" value=".minecraft\mods\[建筑][可视化建筑]Schematics-1.12.2.12.jar@190114/更新/.minecraft/mods/[建筑][可视化建筑]Schematics-1.12.2.12.jar"></it>
+<it key="" value=".minecraft\mods\[功能][网页浏览器]appsmod-1.5.1.jar@190114/更新/.minecraft/mods/[功能][网页浏览器]appsmod-1.5.1.jar"></it>
+<it key="" value=".minecraft\mods\[功能][可视化自定义合成表]MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar@190114/更新/.minecraft/mods/[功能][可视化自定义合成表]MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods@remove@CE4C0A5D602C6E5A589105C5522994F0"></it>
+<it key="" value=".minecraft\mods@remove@50EE760B4C47F0AF54177F32E34377AB"></it>
+<it key="" value=".minecraft\mods@remove@327E04CB8D6A5B860EA8476DE54B97CD"></it>
+<it key="" value=".minecraft\mods@remove@A3035742C512F83B78F8E4B19571DB3D"></it>
+<it key="Backup@add" value=""></it>
+</items>
+</version>
+
+<version value="V22.26">
+<item key="updateInfo" value="版本号: V22.26
+1.更换更新源
+更新时间: 2019-01-12">
+</item>
+<items>
+<it key="" value="KentCraft智能启动器 v190112.zip@190112更新/KentCraft智能启动器 v190112.zip@unzip"></it>
+</items>
+</version>
+
+<version value="V22.25">
+<item key="updateInfo" value="版本号: V22.25
+1.更新星辉魔法
+
+更新时间: 2019-01-12">
+</item>
+<items>
+<it key="" value=".minecraft.zip@190112更新/.minecraft.zip@unzip"></it>
+</items>
+</version>
+
+<version value="V22.24">
+<item key="updateInfo" value="版本号: V22.24
+1.修复自动更新
+
+更新时间: 2019-01-12">
+</item>
+<items>
+<it key="" value=".minecraft需解压.zip@190112更新/.minecraft需解压.zip@unzip"></it>
+<it key=".minecraft\versions\kentcraft-22@add" value=""></it>
+<it key=".minecraft\versions@add" value=""></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\versions\kentcraft-22@remove@624601D9669D60324306A50F0CA0DDDD"></it>
+<it key="" value=".minecraft\versions\kentcraft-22@remove@8C0443868B9E46C77D39DB61C755679D"></it>
+<it key="" value=".minecraft\mods@remove@780976E83AB1DEBB90240E7D3C9B5FBC"></it>
+<it key="" value=".minecraft\mods@remove@E6A117FD1AB5D80D97FA58361F37E21D"></it>
+<it key="" value=".minecraft\mods@remove@3876E9B8CE95ED5BC60B3CA69B8F5DF4"></it>
+<it key="" value=".minecraft\mods@remove@5D702A1559E0F6B7981F9D018E505AC1"></it>
+<it key="" value=".minecraft\mods@remove@A301B39E88A2347EABE07B3D931581A8"></it>
+<it key="" value=".minecraft\mods@remove@5D1619E61897EC1537703BA4F501E520"></it>
+<it key="" value=".minecraft\mods@remove@250F587685AF4B7CD34D8E3C844C59BD"></it>
+</items>
+</version>
+
+
+<version value="V22.23">
+<item key="updateInfo" value="版本号: V22.23
+1.更新了匠魂的版本
+2.修复了匠魂磁力问题
+3.更新了沉浸工程
+4.新增了合成表修改mod
+5.新增了不知道有啥用的GameStages (星辉有用到
+6.更新了FTB
+7.更新了更多门的依赖库malisiscore
+8.把星辉改成支持forge2768了
+9.把Cuisine改成支持forge2768了
+10.材质包恢复正常显示
+11.forge降级到2768
+
+更新时间: 2019-01-12">
+</item>
+<items>
+<it key="" value=".minecraft\versions\kentcraft-22\kentcraft-22.json@190112更新/kentcraft-22.json"></it>
+<it key="" value=".minecraft\versions\kentcraft-22\kentcraft-22.jar@190112更新/kentcraft-22.jar"></it>
+<it key="" value=".minecraft\mods\[魔法][星辉魔法]astralsorcery-1.12.2-1.10.10-for2768.jar@190112更新/[魔法][星辉魔法]astralsorcery-1.12.2-1.10.10-for2768.jar"></it>
+<it key="" value=".minecraft\mods\[食物][料理工艺]Cuisine-0.3.9-for-2768.jar@190112更新/[食物][料理工艺]Cuisine-0.3.9-for-2768.jar"></it>
+<it key="" value=".minecraft\mods\[科技][沉浸工艺]ImmersiveEngineering-0.12-88.jar@190112更新/[科技][沉浸工艺]ImmersiveEngineering-0.12-88.jar"></it>
+<it key="" value=".minecraft\mods\[核心][阶段接口]GameStages-1.12.2-2.0.112.jar@190112更新/[核心][阶段接口]GameStages-1.12.2-2.0.112.jar"></it>
+<it key="" value=".minecraft\mods\[核心][配方修改]CraftTweaker2-1.12-4.1.13.jar@190112更新/[核心][配方修改]CraftTweaker2-1.12-4.1.13.jar"></it>
+<it key="" value=".minecraft\mods\[核心][更多门前置]malisiscore-1.12.2-6.5.0.jar@190112更新/[核心][更多门前置]malisiscore-1.12.2-6.5.0.jar"></it>
+<it key="" value=".minecraft\mods\[核心][库]Bookshelf-1.12.2-2.3.570.jar@190112更新/[核心][库]Bookshelf-1.12.2-2.3.570.jar"></it>
+<it key="" value=".minecraft\mods\[工具][匠魂]TConstruct-1.12.2-2.12.0.DEV.FIXED.jar@190112更新/[工具][匠魂]TConstruct-1.12.2-2.12.0.DEV.FIXED.jar"></it>
+<it key="" value=".minecraft\mods\FTBUtilities-5.3.0.69.jar@190112更新/FTBUtilities-5.3.0.69.jar"></it>
+<it key="" value=".minecraft\mods\FTBLib-5.4.0.73.jar@190112更新/FTBLib-5.4.0.73.jar"></it>
+<it key=".minecraft\versions\kentcraft-22@add" value=""></it>
+<it key=".minecraft\versions@add" value=""></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value="@remove@780976E83AB1DEBB90240E7D3C9B5FBC"></it>
+<it key="" value="@remove@E6A117FD1AB5D80D97FA58361F37E21D"></it>
+<it key="" value="@remove@3876E9B8CE95ED5BC60B3CA69B8F5DF4"></it>
+<it key="" value="@remove@5D702A1559E0F6B7981F9D018E505AC1"></it>
+<it key="" value="@remove@A301B39E88A2347EABE07B3D931581A8"></it>
+<it key="" value="@remove@5D1619E61897EC1537703BA4F501E520"></it>
+<it key="" value="@remove@250F587685AF4B7CD34D8E3C844C59BD"></it>
+</items>
+</version>
+
+<version value="V22.22">
+<item key="updateInfo" value="版本号: V22.22
+1.新增自动更新,以后再也不需要手动打补丁啦
+
+更新时间: 2019-01-11">
+</item>
+<items>
+<it key="Backup@add" value=""></it>
+</items>
+</version>
+
+</config>

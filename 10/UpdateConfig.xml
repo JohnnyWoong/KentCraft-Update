@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<config>
+	<version value="V10.4">
+		<item key="updateInfo" value="版本号:V10.4
+1. 添加 excompressum-mc_1.1.143
+		
+更新时间:2016-11-22">
+		</item>
+		<items>
+			<it key="" value=".minecraft\mods\[压缩工具]excompressum-mc1.7.10-1.1.143.jar@161122/%5B%E5%8E%8B%E7%BC%A9%E5%B7%A5%E5%85%B7%5Dexcompressum-mc1.7.10-1.1.143.jar"></it>
+			<it key=".minecraft\mods@add" value=""></it>
+			<it key=".minecraft@add" value=""></it>
+		</items>
+	</version>
+	
+	<version value="V10.3">
+		<item key="updateInfo" value="版本号:V10.3
+1. 添加 EnderCore-1.7.10-0.2.0.35_beta
+2. 添加 MineTweaker3-1.7.10-3.0.9C
+		
+更新时间:2016-11-15">
+		</item>
+		<items>
+			<it key="" value=".minecraft\mods\ModTweaker2-0.9.5.jar@161115/ModTweaker2-0.9.5.jar"></it>
+			<it key="" value=".minecraft\mods\MineTweakerRecipeMaker-1.1.jar@161115/MineTweakerRecipeMaker-1.1.jar"></it>
+			<it key=".minecraft\mods@add" value=""></it>
+			<it key=".minecraft@add" value=""></it>
+		</items>
+	</version>
+	
+	<version value="V10.2">
+		<item key="updateInfo" value="版本号:V10.2
+1. 添加 EnderCore-1.7.10-0.2.0.35_beta
+2. 添加 MineTweaker3-1.7.10-3.0.9C
+3. 添加 NBTEdit_1.7.10
+		
+更新时间:2016-11-14">
+		</item>
+		<items>
+			<it key="" value=".minecraft\mods\EnderCore-1.7.10-0.2.0.35_beta.jar@161114/EnderCore-1.7.10-0.2.0.35_beta.jar"></it>
+			<it key="" value=".minecraft\mods\MineTweaker3-1.7.10-3.0.9C.jar@161114/MineTweaker3-1.7.10-3.0.9C.jar"></it>
+			<it key="" value=".minecraft\mods\NBTEdit_1.7.10.jar@161114/NBTEdit_1.7.10.jar"></it>
+			<it key=".minecraft\mods@add" value=""></it>
+			<it key=".minecraft@add" value=""></it>
+		</items>
+	</version>
+	
+	<version value="V10.1 Beta">
+		<item key="updateInfo" value="版本号:V10.1 Beta
+1. 添加 [ 科技 ] [ 无中生有-星辉生万物 ]ExAstris-1.16-36
+2. 添加 [ 科技 ] [ 应用能源2-机器增强 ]ae2stuff-rv3-0.5.1-DEV
+3. 添加 [ 科技 ] [ 应用能源2-机器增强-前置 ]bdlib-1.9.4.109-mc1.7.10
+4. 添加 [ 魔法 ] [ 魔法种植 ]MFR Compat - Magical Crops v1-2-1
+5. 添加 [ 显示 ] [ 小地图 ] mod_voxelMap_1.5.20_for_1.7.10
+6. 更新 [ 科技 ] [ 应用能源2 ]AppliedEnergistics2-rv3-beta-5
+望大家10周目继续嗨起!!!
+		
+更新时间:2016-11-10">
+		</item>
+		<items>
+			<it key="" value=".minecraft\mods\[ 显示 ] [ 小地图 ] mod_voxelMap_1.5.20_for_1.7.10.litemod@161110/%5B%20%E6%98%BE%E7%A4%BA%20%5D%20%5B%20%E5%B0%8F%E5%9C%B0%E5%9B%BE%20%5D%20mod_voxelMap_1.5.20_for_1.7.10.litemod"></it>
+			<it key="" value=".minecraft\mods\[ 科技 ] [ 应用能源2 ]AppliedEnergistics2-rv3-beta-5.jar@161110/%5B%20%E7%A7%91%E6%8A%80%20%5D%20%5B%20%E5%BA%94%E7%94%A8%E8%83%BD%E6%BA%902%20%5DAppliedEnergistics2-rv3-beta-5.jar"></it>
+			<it key="" value=".minecraft\mods\[ 科技 ] [ 应用能源2-机器增强 ]ae2stuff-rv3-0.5.1-DEV.jar@161110/%5B%20%E7%A7%91%E6%8A%80%20%5D%20%5B%20%E5%BA%94%E7%94%A8%E8%83%BD%E6%BA%902-%E6%9C%BA%E5%99%A8%E5%A2%9E%E5%BC%BA%20%5Dae2stuff-rv3-0.5.1-DEV.jar"></it>
+			<it key="" value=".minecraft\mods\[ 科技 ] [ 应用能源2-机器增强-前置 ]bdlib-1.9.4.109-mc1.7.10.jar@161110/%5B%20%E7%A7%91%E6%8A%80%20%5D%20%5B%20%E5%BA%94%E7%94%A8%E8%83%BD%E6%BA%902-%E6%9C%BA%E5%99%A8%E5%A2%9E%E5%BC%BA-%E5%89%8D%E7%BD%AE%20%5Dbdlib-1.9.4.109-mc1.7.10.jar"></it>
+			<it key="" value=".minecraft\mods\[ 科技 ] [ 无中生有-星辉生万物 ]ExAstris-1.16-36.jar@161110/%5B%20%E7%A7%91%E6%8A%80%20%5D%20%5B%20%E6%97%A0%E4%B8%AD%E7%94%9F%E6%9C%89-%E6%98%9F%E8%BE%89%E7%94%9F%E4%B8%87%E7%89%A9%20%5DExAstris-1.16-36.jar"></it>
+			<it key="" value=".minecraft\mods\[ 魔法 ] [ 魔法种植 ]MFR Compat - Magical Crops v1-2-1.jar@161110/%5B%20%E9%AD%94%E6%B3%95%20%5D%20%5B%20%E9%AD%94%E6%B3%95%E7%A7%8D%E6%A4%8D%20%5DMFR%20Compat%20-%20Magical%20Crops%20v1-2-1.jar"></it>
+			<it key=".minecraft\config@remove" value=""></it>
+			<it key="" value=".minecraft\mods\[ 科技 ] [ 应用能源2 ] Applied Energistics 2-rv2-stable-10.jar@remove"></it>
+			<it key=".minecraft\mods@add" value=""></it>
+			<it key=".minecraft@add" value=""></it>
+		</items>
+	</version>
+</config>
