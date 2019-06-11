@@ -14,4 +14,17 @@ KentCraft_City正式上线咯
       </items>
     </items>
   </version>
+  <version value="V1.01">
+    <item key="updateInfo" value="版本号: V1.01
+	1.移除僵尸意志
+
+	更新时间: 2019-06-11">
+    </item>
+    <items>
+	  <it key="" value=".minecraft\mods\8D28B4B0C2D77F705F38C33BEFB2F175@remove"></it>
+	  <it key="" value=".minecraft\mods\F354875FC61F095AB3E242E14A91DF0E@remove"></it>
+	  <it key="" value=".minecraft\mods\8CE18704698C263FBF59CF2475917A38@remove"></it>
+	  <it key="" value="KentCraft_City.exe@rename@KentCraft.exe">
+    </items>
+  </version>
 </config>
