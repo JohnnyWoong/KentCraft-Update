@@ -14,21 +14,6 @@
 </items>
 </version>
 
-<version value="V1.0">
-<item key="updateInfo" value="版本号:V1.0
-KentCraft_City正式上线咯
-承诺起码坚持1年的建筑服务器隆重开启
-
-更新时间:2019.06.01">
-</item>
-<items>
-<items>
-<it key=".minecraft\mods@add" value=""></it>
-<it key=".minecraft@add" value=""></it>
-</items>
-</items>
-
-</version>
 <version value="V1.01">
 <item key="updateInfo" value="版本号: V1.01
 1.移除僵尸意志
@@ -40,6 +25,19 @@ KentCraft_City正式上线咯
 <it key="" value=".minecraft\mods\F354875FC61F095AB3E242E14A91DF0E@remove"></it>
 <it key="" value=".minecraft\mods\8CE18704698C263FBF59CF2475917A38@remove"></it>
 <it key="" value="KentCraft_City.exe@rename@KentCraft.exe"></it>
+</items>
+</version>
+
+<version value="V1.0">
+<item key="updateInfo" value="版本号:V1.0
+KentCraft_City正式上线咯
+承诺起码坚持1年的建筑服务器隆重开启
+
+更新时间:2019.06.01">
+</item>
+<items>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
 </items>
 </version>
 </config>
