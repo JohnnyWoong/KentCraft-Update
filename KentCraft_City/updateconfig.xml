@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
+
 <version value="V1.02">
 <item key="updateInfo" value="版本号: V1.02
 1.新增更多存储
 2.新增循环
+
 更新时间: 2019-06-14">
 </item>
 <items>
@@ -40,4 +42,6 @@ KentCraft_City正式上线咯
 <it key=".minecraft@add" value=""></it>
 </items>
 </version>
+
+
 </config>
