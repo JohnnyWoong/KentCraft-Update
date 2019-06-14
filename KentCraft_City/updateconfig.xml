@@ -1,5 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
+<version value="V1.02">
+<item key="updateInfo" value="版本号: V1.02
+1.新增更多存储
+2.新增循环
+更新时间: 2019-06-14">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[CS][更多存储]BarrelsDrumsStorageAndMore-0.0.22.jar@190614/更新/.minecraft/mods/[CS][更多存储]BarrelsDrumsStorageAndMore-0.0.22.jar"></it>
+<it key="" value=".minecraft\mods\[CS][循环]Cyclic-1.12.2-1.19.11.jar@190614/更新/.minecraft/mods/[CS][循环]Cyclic-1.12.2-1.19.11.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+</items>
+</version>
+
 <version value="V1.0">
 <item key="updateInfo" value="版本号:V1.0
 KentCraft_City正式上线咯
@@ -13,6 +27,7 @@ KentCraft_City正式上线咯
 <it key=".minecraft@add" value=""></it>
 </items>
 </items>
+
 </version>
 <version value="V1.01">
 <item key="updateInfo" value="版本号: V1.01
