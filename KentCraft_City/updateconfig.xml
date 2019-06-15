@@ -1,6 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="V1.04">
+<item key="updateInfo" value="版本号: V1.04
+1.移除VexView
+2.移除VanillaFix
+3.更新启动器
+
+更新时间: 2019-06-15">
+</item>
+<items>
+<it key="" value="KentCraft启动器 v190615.exe@new@190615/更新/KentCraft启动器 v190615.exe"></it>
+</items>
+</version>
+
 <version value="V1.03">
 <item key="updateInfo" value="版本号: V1.03
 更新启动器:
@@ -9,7 +22,7 @@
 更新时间: 2019-06-15">
 </item>
 <items>
-<it key="" value="KentCraft启动器 v190615.exe@190615/更新/KentCraft启动器 v190615.exe"></it>
+<it key="" value="KentCraft启动器 v190615.exe@new@190615/更新/KentCraft启动器 v190615.exe"></it>
 </items>
 </version>
 
