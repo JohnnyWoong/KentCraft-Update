@@ -10,7 +10,13 @@
 更新时间: 2019-06-15">
 </item>
 <items>
-<it key="" value="KentCraft启动器 v190615.exe@new@190615/更新/KentCraft启动器 v190615.exe"></it>
+<it key="" value="KentCraft启动器 v190616.exe@190616/更新/KentCraft启动器 v190616.exe"></it>
+<it key=".minecraft\config\vanillafix@remove" value=""></it>
+<it key=".minecraft\vexview@remove" value=""></it>
+<it key="" value=".minecraft\mods\EB05714C798A94F52DDD8617857052AB@remove"></it>
+<it key="" value=".minecraft\mods\3B6E7BA60745D31DECC0C4D5ED373B58@remove"></it>
+<it key="" value=".minecraft\config\97D5973B88B1B3C80969AC01AE6FBDD5@remove"></it>
+<it key="" value=".minecraft\config\8E1F48D3980CD1366395527CCA2E704F@remove"></it>
 </items>
 </version>
 
