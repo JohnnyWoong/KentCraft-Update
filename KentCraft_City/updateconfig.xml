@@ -4,31 +4,10 @@
 <version value="V1.05">
 <item key="updateInfo" value="版本号: V1.05
 1.移除真实火车
-2.新增更多箱子
-3.新增建筑魔杖
-4.新增沉浸工艺
-5.新增传送枪
-6.新增更多实用设备2
-7.新增末影接口
-8.新增实用物流监控
-9.新增等价交换
 
 更新时间: 2019-06-17">
 </item>
 <items>
-<it key="" value=".minecraft\mods\[CS][魔法][等价交换]ProjectE-1.12.2-PE1.4.1.jar@190617/更新/.minecraft/mods/[CS][魔法][等价交换]ProjectE-1.12.2-PE1.4.1.jar"></it>
-<it key="" value=".minecraft\mods\[CS][科技][沉浸工程]ImmersiveEngineering-0.12-89.jar@190617/更新/.minecraft/mods/[CS][科技][沉浸工程]ImmersiveEngineering-0.12-89.jar"></it>
-<it key="" value=".minecraft\mods\[CS][科技][末影接口能源]EnderIO-endergy-1.12.2-5.0.44.jar@190617/更新/.minecraft/mods/[CS][科技][末影接口能源]EnderIO-endergy-1.12.2-5.0.44.jar"></it>
-<it key="" value=".minecraft\mods\[CS][科技][末影接口]EnderIO-1.12.2-5.0.44.jar@190617/更新/.minecraft/mods/[CS][科技][末影接口]EnderIO-1.12.2-5.0.44.jar"></it>
-<it key="" value=".minecraft\mods\[CS][科技][更多实用设备2]extrautils2-1.12-1.9.9.jar@190617/更新/.minecraft/mods/[CS][科技][更多实用设备2]extrautils2-1.12-1.9.9.jar"></it>
-<it key="" value=".minecraft\mods\[CS][科技][实用物流监控]practicallogistics2-1.12.2-3.0.8-11.jar@190617/更新/.minecraft/mods/[CS][科技][实用物流监控]practicallogistics2-1.12.2-3.0.8-11.jar"></it>
-<it key="" value=".minecraft\mods\[CS][科技][传送枪前置]iChunUtil-1.12.2-7.2.1.jar@190617/更新/.minecraft/mods/[CS][科技][传送枪前置]iChunUtil-1.12.2-7.2.1.jar"></it>
-<it key="" value=".minecraft\mods\[CS][科技][传送枪]PortalGun-1.12.2-7.1.0.jar@190617/更新/.minecraft/mods/[CS][科技][传送枪]PortalGun-1.12.2-7.1.0.jar"></it>
-<it key="" value=".minecraft\mods\[CS][建筑][建筑魔杖]BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar@190617/更新/.minecraft/mods/[CS][建筑][建筑魔杖]BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar"></it>
-<it key="" value=".minecraft\mods\[CS][工具][更多炉子]MoreFurnaces-1.12.2-1.10.6.jar@190617/更新/.minecraft/mods/[CS][工具][更多炉子]MoreFurnaces-1.12.2-1.10.6.jar"></it>
-<it key="" value=".minecraft\mods\[CS][存储][更多箱子]ironchest-1.12.2-7.0.69.845.jar@190617/更新/.minecraft/mods/[CS][存储][更多箱子]ironchest-1.12.2-7.0.69.845.jar"></it>
-<it key=".minecraft\mods@add" value=""></it>
-<it key=".minecraft@add" value=""></it>
 <it key="" value=".minecraft\mods\7BECE3AC05AAAEC632FA43EC80B7281C@remove"></it>
 <it key="" value=".minecraft\mods\3B7AAFFDFDE17F61ACF3D511A17C72B8@remove"></it>
 </items>
