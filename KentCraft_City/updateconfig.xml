@@ -1,6 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="V1.06">
+<item key="updateInfo" value="版本号: V1.06
+1.+ 更多箱子
+2.+ 更多炉子
+3.+ 建筑魔杖
+4.+ 沉浸工艺
+5.+ 传送枪
+6.+ 更多实用设备2
+7.+ 实用物流监控
+8.+ 等价交换
+
+更新时间: 2019-06-18">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[CS][魔法][等价交换前置]sonarcore-1.12.2-5.0.19-20.jar@190618/更新/.minecraft/mods/[CS][魔法][等价交换前置]sonarcore-1.12.2-5.0.19-20.jar"></it>
+<it key="" value=".minecraft\mods\[CS][魔法][等价交换前置]MCMultiPart-2.5.3.jar@190618/更新/.minecraft/mods/[CS][魔法][等价交换前置]MCMultiPart-2.5.3.jar"></it>
+<it key="" value=".minecraft\mods\[CS][魔法][等价交换]ProjectE-1.12.2-PE1.4.1.jar@190618/更新/.minecraft/mods/[CS][魔法][等价交换]ProjectE-1.12.2-PE1.4.1.jar"></it>
+<it key="" value=".minecraft\mods\[CS][科技][沉浸工程]ImmersiveEngineering-0.12-89.jar@190618/更新/.minecraft/mods/[CS][科技][沉浸工程]ImmersiveEngineering-0.12-89.jar"></it>
+<it key="" value=".minecraft\mods\[CS][科技][更多实用设备2]extrautils2-1.12-1.9.9.jar@190618/更新/.minecraft/mods/[CS][科技][更多实用设备2]extrautils2-1.12-1.9.9.jar"></it>
+<it key="" value=".minecraft\mods\[CS][科技][实用物流监控]practicallogistics2-1.12.2-3.0.8-11.jar@190618/更新/.minecraft/mods/[CS][科技][实用物流监控]practicallogistics2-1.12.2-3.0.8-11.jar"></it>
+<it key="" value=".minecraft\mods\[CS][科技][传送枪前置]iChunUtil-1.12.2-7.2.1.jar@190618/更新/.minecraft/mods/[CS][科技][传送枪前置]iChunUtil-1.12.2-7.2.1.jar"></it>
+<it key="" value=".minecraft\mods\[CS][科技][传送枪]PortalGun-1.12.2-7.1.0.jar@190618/更新/.minecraft/mods/[CS][科技][传送枪]PortalGun-1.12.2-7.1.0.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][建筑魔杖]BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar@190618/更新/.minecraft/mods/[CS][建筑][建筑魔杖]BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具][更多炉子前置]cxlibrary-1.12.1-1.6.1.jar@190618/更新/.minecraft/mods/[CS][工具][更多炉子前置]cxlibrary-1.12.1-1.6.1.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具][更多炉子]MoreFurnaces-1.12.2-1.10.6.jar@190618/更新/.minecraft/mods/[CS][工具][更多炉子]MoreFurnaces-1.12.2-1.10.6.jar"></it>
+<it key="" value=".minecraft\mods\[CS][存储][更多箱子]ironchest-1.12.2-7.0.69.845.jar@190618/更新/.minecraft/mods/[CS][存储][更多箱子]ironchest-1.12.2-7.0.69.845.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+</items>
+</version>
+
 <version value="V1.05">
 <item key="updateInfo" value="版本号: V1.05
 1.移除真实火车
