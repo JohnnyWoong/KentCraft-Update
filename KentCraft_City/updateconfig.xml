@@ -1,6 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="V1.07">
+<item key="updateInfo" value="版本号: V1.07
+更新启动器
+解决少部分用户SSL/TLS引发的无法更新
+文件未下载完整会提示重新运行
+
+更新时间: 2019-06-23">
+</item>
+<items>
+<it key="" value="KentCraft启动器 v190623.exe@new@190623/更新/KentCraft启动器 v190623.exe"></it>
+</items>
+</version>
+
 <version value="V1.06">
 <item key="updateInfo" value="版本号: V1.06
 1.+ 更多箱子
