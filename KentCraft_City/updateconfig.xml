@@ -1,6 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="V1.08">
+<item key="updateInfo" value="版本号: V1.08
+1.新增变身mod
+2.新增懒人厨房mod
+3.新增拔刀剑mod
+4.新增超多生物群系mod
+
+更新时间: 2019-06-25">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[C][高清修复]OptiFine_1.12.2_HD_U_E3.jar@190625/更新/.minecraft/mods/[C][高清修复]OptiFine_1.12.2_HD_U_E3.jar"></it>
+<it key="" value=".minecraft\mods\[CS][环境][超多生物群系]BiomesOPlenty-1.12.2-7.0.1.2439-universal.jar@190625/更新/.minecraft/mods/[CS][环境][超多生物群系]BiomesOPlenty-1.12.2-7.0.1.2439-universal.jar"></it>
+<it key="" value=".minecraft\mods\[CS][武器-拔刀剑]SlashBlade-mc1.12-r25.jar@190625/更新/.minecraft/mods/[CS][武器-拔刀剑]SlashBlade-mc1.12-r25.jar"></it>
+<it key="" value=".minecraft\mods\[CS][懒人厨房]CookingForBlockheads_1.12.2-6.4.70.jar@190625/更新/.minecraft/mods/[CS][懒人厨房]CookingForBlockheads_1.12.2-6.4.70.jar"></it>
+<it key="" value=".minecraft\mods\[CS][变身]Morph-1.12.2-7.1.3.jar@190625/更新/.minecraft/mods/[CS][变身]Morph-1.12.2-7.1.3.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key=".minecraft\mods\railcraft\emblems@remove" value=""></it>
+<it key="" value=".minecraft\mods\1.12.2\CFE85D3645AD3EB41F28B87EF4EFBB0B@remove"></it>
+<it key="" value=".minecraft\mods\04DA61D6F449A20C7631D711A976D675@remove"></it>
+</items>
+</version> 
+  
 <version value="V1.07">
 <item key="updateInfo" value="版本号: V1.07
 更新启动器
