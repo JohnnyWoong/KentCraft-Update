@@ -1,6 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="V1.09">
+<item key="updateInfo" value="版本号: V1.09
+1.移除生物群系
+
+
+更新时间: 2019-06-25">
+</item>
+<items>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key=".minecraft\mods\railcraft@remove" value=""></it>
+<it key=".minecraft\mods\1.12.2@remove" value=""></it>
+<it key="" value=".minecraft\mods\5045685C0B7C23362A54A080588D4DE2@remove"></it>
+</items>
+</version>
+  
 <version value="V1.08">
 <item key="updateInfo" value="版本号: V1.08
 1.新增变身mod
