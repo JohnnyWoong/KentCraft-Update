@@ -54,7 +54,7 @@
 <it key="Backup\.minecraft\mods@add" value=""></it>
 <it key="Backup\.minecraft@add" value=""></it>
 <it key="Backup@add" value=""></it>
-<it key="" value=".minecraft\mods\[C][随缘修复]randomtweaks-1.12.2-2.5.0.5.jar@rename@[C][随机微调]randomtweaks-1.12.2-2.5.0.5.jar"></it>
+<it key="" value=".minecraft\mods\[C][随缘修复]randomtweaks-1.12.2-2.5.0.5.jar@rename@.minecraft\mods\[C][随机微调]randomtweaks-1.12.2-2.5.0.5.jar"></it>
 </items>
 </version>
 
