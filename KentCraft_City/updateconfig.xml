@@ -1,5 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
+
+<version value="1.11">
+<item key="updateInfo" value="版本号: 1.11
+1.新增海树山花
+2.新增熟悉的动物
+3.新增辅助模组
+
+更新时间: 2019-07-23">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[C][辅助][鼠标手势]MouseTweaks-2.9-mc1.12.2.jar@190723/更新/.minecraft/mods/[C][辅助][鼠标手势]MouseTweaks-2.9-mc1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[C][辅助][合成辅助]CraftingTweaks_1.12.2-8.1.9.jar@190723/更新/.minecraft/mods/[C][辅助][合成辅助]CraftingTweaks_1.12.2-8.1.9.jar"></it>
+<it key="" value=".minecraft\mods\[C][辅助][区块显示]moreoverlays-1.14-mc1.12.2.jar@190723/更新/.minecraft/mods/[C][辅助][区块显示]moreoverlays-1.14-mc1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][环境][熟悉的动物]FamiliarFauna-1.12.2-1.0.11.jar@190723/更新/.minecraft/mods/[CS][环境][熟悉的动物]FamiliarFauna-1.12.2-1.0.11.jar"></it>
+<it key="" value=".minecraft\mods\[CS][环境][海树山花前置]shetiphiancore-1.12.0-3.5.9.jar@190723/更新/.minecraft/mods/[CS][环境][海树山花前置]shetiphiancore-1.12.0-3.5.9.jar"></it>
+<it key="" value=".minecraft\mods\[CS][环境][海树山花]terraqueous-1.12.2-1.4.17b.jar@190723/更新/.minecraft/mods/[CS][环境][海树山花]terraqueous-1.12.2-1.4.17b.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods\E4F1E4819512203114A9424C4AB79FD0@remove"></it>
+<it key="" value=".minecraft\mods\FFD1E2B5C4F244F4A7C6D4EE2E4C2090@remove"></it>
+<it key="" value=".minecraft\mods\299EF46B09DFE6B9C874B7607C9A1D2D@remove"></it>
+<it key="" value=".minecraft\mods\EB23A10C2D246CF65AFFEB59116C881E@remove"></it>
+<it key="" value=".minecraft\mods\B36E2692DDED419CC2BD2612382ED1D7@remove"></it>
+<it key="" value=".minecraft\mods\E05A720C5900B9BAC4E01179ABE8EEF6@remove"></it>
+</items>
+</version>
   
 <version value="V1.10">
 <item key="updateInfo" value="版本号: V1.10
