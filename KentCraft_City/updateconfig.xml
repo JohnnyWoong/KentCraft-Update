@@ -1,6 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="V1.12">
+<item key="updateInfo" value="版本号: V1.12
+1.新增匠魂
+2.新增传送石
+3.移除变身
+4.移除静谧四季
+5.移除在线图片
+
+更新时间: 2019-11-12">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[CS]传送石]Waystones_1.12.2-4.0.72.jar@191112/更新/.minecraft/mods/[CS]传送石]Waystones_1.12.2-4.0.72.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具][匠魂拓展]TinkerToolLeveling-1.12.2-1.0.5.jar@191112/更新/.minecraft/mods/[CS][工具][匠魂拓展]TinkerToolLeveling-1.12.2-1.0.5.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具]FTBUtilities-5.4.0.114.jar@191112/更新/.minecraft/mods/[CS][工具]FTBUtilities-5.4.0.114.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具]FTBQuests-1.8.0.234.jar@191112/更新/.minecraft/mods/[CS][工具]FTBQuests-1.8.0.234.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具]FTBMoney-1.1.0.42.jar@191112/更新/.minecraft/mods/[CS][工具]FTBMoney-1.1.0.42.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具]FTBLib-5.4.3.149.jar@191112/更新/.minecraft/mods/[CS][工具]FTBLib-5.4.3.149.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具]FTBBackups-1.1.0.1.jar@191112/更新/.minecraft/mods/[CS][工具]FTBBackups-1.1.0.1.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具]FTB-ItemFilters-1.0.3.12.jar@191112/更新/.minecraft/mods/[CS][工具]FTB-ItemFilters-1.0.3.12.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods\D9F511529FB34E0BC20D5759D00188F6@remove"></it>
+<it key="" value=".minecraft\mods\D510BBC5595E3FAF6016CDF77B4A09E7@remove"></it>
+<it key="" value=".minecraft\mods\61F66D7A44AA5781A554F38AF90487E4@remove"></it>
+<it key="" value=".minecraft\mods\5DE1A67A266715DBABA0F8E597257967@remove"></it>
+<it key="" value=".minecraft\mods\2099697806F4811C7B76199944661733@remove"></it>
+<it key="" value=".minecraft\mods\C9775EC3EB8E51067C90EA4E16853360@remove"></it>
+</items>
+</version>
+
 <version value="1.11">
 <item key="updateInfo" value="版本号: 1.11
 1.新增海树山花
