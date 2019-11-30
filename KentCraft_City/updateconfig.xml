@@ -1,6 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
-  
+
+<version value="V1.14">
+<item key="updateInfo" value="版本号: V1.14
+1.更新旅行地图
+2.新增建筑工具
+3.新增更多地形
+4.新增卡服监控
+5.新增更多id
+
+更新时间: 2019-11-30">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[C][辅助][旅行地图]Journeymap-1.12.2-5.5.5.jar@191130/更新/.minecraft/mods/[C][辅助][旅行地图]Journeymap-1.12.2-5.5.5.jar"></it>
+<it key="" value=".minecraft\mods\[C][建筑][建筑工具]ism-2.6.1 MC-1.12.2.jar@191130/更新/.minecraft/mods/[C][建筑][建筑工具]ism-2.6.1 MC-1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][辅助][卡服监控]LagGoggles-FAT-1.12.2-4.6.jar@191130/更新/.minecraft/mods/[CS][辅助][卡服监控]LagGoggles-FAT-1.12.2-4.6.jar"></it>
+<it key="" value=".minecraft\mods\[CS][地形]UndergroundBiomesConstructs-1.12-1.3.7.jar@191130/更新/.minecraft/mods/[CS][地形]UndergroundBiomesConstructs-1.12-1.3.7.jar"></it>
+<it key="" value=".minecraft\mods\[CS][优化]JustEnoughIDs-1.0.3-48.jar@191130/更新/.minecraft/mods/[CS][优化]JustEnoughIDs-1.0.3-48.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods\E8F1EA79B6A51ED9BB3FE1062F8093A0@remove"></it>
+</items>
+</version>
+
 <version value="V1.13">
 <item key="updateInfo" value="版本号: V1.13
 补上11月2日的更新
