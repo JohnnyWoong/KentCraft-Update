@@ -1,6 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="V1.15">
+<item key="updateInfo" value="版本号: V1.15
+重大更新:
+1.更新雕凿工艺
+2.新增苹果皮(查看食物饱食度)
+3.新增睡眠投票
+4.新增樱(混合竹,和风以及枫树)
+5.新增AE2
+6.新增生长工艺
+
+添加材质(强烈建议使用)
+F+(原版高清)
+Faithful(模组高清)
+同时启用效果最佳哦
+
+更新时间: 2019-12-05">
+</item>
+<items>
+<it key="" value=".minecraft\resourcepacks\100A3620452AC9A07E7B212C29959E1A@rename@The F+ 1.12.x [v4.7.1].zip"></it>
+<it key="" value=".minecraft\resourcepacks\The F 1.12.x [v4.7.1].zip@191205/更新/.minecraft/resourcepacks/The F 1.12.x [v4.7.1].zip"></it>
+<it key="" value=".minecraft\resourcepacks\Faithful32_MC1.12.2_v1.0.5.zip@191205/更新/.minecraft/resourcepacks/Faithful32_MC1.12.2_v1.0.5.zip"></it>
+<it key="" value=".minecraft\mods\[CS][辅助][苹果皮]AppleSkin-mc1.12-1.0.9.jar@191205/更新/.minecraft/mods/[CS][辅助][苹果皮]AppleSkin-mc1.12-1.0.9.jar"></it>
+<it key="" value=".minecraft\mods\[CS][辅助][睡眠]Morpheus-1.12.2-3.5.106.jar@191205/更新/.minecraft/mods/[CS][辅助][睡眠]Morpheus-1.12.2-3.5.106.jar"></it>
+<it key="" value=".minecraft\mods\[CS][能源][AE2]appliedenergistics2-rv6-stable-7.jar@191205/更新/.minecraft/mods/[CS][能源][AE2]appliedenergistics2-rv6-stable-7.jar"></it>
+<it key="" value=".minecraft\mods\[CS][种植][生长工艺]growthcraft-1.12.2-4.1.0.jar@191205/更新/.minecraft/mods/[CS][种植][生长工艺]growthcraft-1.12.2-4.1.0.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][雕凿工艺]chiselsandbits-14.33.jar@191205/更新/.minecraft/mods/[CS][建筑][雕凿工艺]chiselsandbits-14.33.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][樱]Sakura-V0.0.6-MC1.12.2.jar@191205/更新/.minecraft/mods/[CS][建筑][樱]Sakura-V0.0.6-MC1.12.2.jar"></it>
+<it key=".minecraft\resourcepacks@add" value=""></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value="08229BD6802B8A85039D5CAA82637D1F@remove"></it>
+</items>
+</version>
+
 <version value="V1.14">
 <item key="updateInfo" value="版本号: V1.14
 1.更新旅行地图
