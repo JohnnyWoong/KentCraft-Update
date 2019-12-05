@@ -14,7 +14,7 @@
 添加材质(强烈建议使用)
 F+(原版高清)
 Faithful(模组高清)
-同时启用效果最佳哦
+同时启用效果最佳哦(注意材质包排序,F+要在Faithful的下面)
 
 更新时间: 2019-12-05">
 </item>
@@ -31,7 +31,7 @@ Faithful(模组高清)
 <it key=".minecraft\resourcepacks@add" value=""></it>
 <it key=".minecraft\mods@add" value=""></it>
 <it key=".minecraft@add" value=""></it>
-<it key="" value="08229BD6802B8A85039D5CAA82637D1F@remove"></it>
+<it key="" value=".minecraft\resourcepacks\100A3620452AC9A07E7B212C29959E1A@rename@The F+ 1.12.x [v4.7.1].zip">
 </items>
 </version>
 
