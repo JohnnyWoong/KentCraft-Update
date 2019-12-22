@@ -1,6 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="V1.16">
+<item key="updateInfo" value="版本号: V1.16
+1.更新旅行地图至最新版
+2.更新凿子至最新版
+3.更新建筑生成
+4.更新樱至最新版
+4.新增屋顶
+5.新增热力膨胀套餐
+
+更新时间: 2019-12-22">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[C][辅助][旅行地图][solder]journeymap-1.12.2-5.5.6.jar@191222/更新/.minecraft/mods/[C][辅助][旅行地图][solder]journeymap-1.12.2-5.5.6.jar"></it>
+<it key="" value=".minecraft\mods\[CS][防践踏]tramplestopper-1.12.2-1.2.0.5-universal.jar@191222/更新/.minecraft/mods/[CS][防践踏]tramplestopper-1.12.2-1.2.0.5-universal.jar"></it>
+<it key="" value=".minecraft\mods\[CS][热力膨胀]ThermalFoundation-1.12.2-2.6.3.27-universal.jar@191222/更新/.minecraft/mods/[CS][热力膨胀]ThermalFoundation-1.12.2-2.6.3.27-universal.jar"></it>
+<it key="" value=".minecraft\mods\[CS][热力膨胀]ThermalExpansion-1.12.2-5.5.4.43-universal.jar@191222/更新/.minecraft/mods/[CS][热力膨胀]ThermalExpansion-1.12.2-5.5.4.43-universal.jar"></it>
+<it key="" value=".minecraft\mods\[CS][热力膨胀]ThermalDynamics-1.12.2-2.5.5.21-universal.jar@191222/更新/.minecraft/mods/[CS][热力膨胀]ThermalDynamics-1.12.2-2.5.5.21-universal.jar"></it>
+<it key="" value=".minecraft\mods\[CS][热力膨胀]RedstoneFlux-1.12-2.1.0.6-universal.jar@191222/更新/.minecraft/mods/[CS][热力膨胀]RedstoneFlux-1.12-2.1.0.6-universal.jar"></it>
+<it key="" value=".minecraft\mods\[CS][热力膨胀]CoFHWorld-1.12.2-1.3.1.7-universal.jar@191222/更新/.minecraft/mods/[CS][热力膨胀]CoFHWorld-1.12.2-1.3.1.7-universal.jar"></it>
+<it key="" value=".minecraft\mods\[CS][热力膨胀]CoFHCore-1.12.2-4.6.3.27-universal.jar@191222/更新/.minecraft/mods/[CS][热力膨胀]CoFHCore-1.12.2-4.6.3.27-universal.jar"></it>
+<it key="" value=".minecraft\mods\[CS][热力膨胀]CodeChickenLib-1.12.2-3.2.3.358-universal.jar@191222/更新/.minecraft/mods/[CS][热力膨胀]CodeChickenLib-1.12.2-3.2.3.358-universal.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][樱]Sakura-V0.0.7.1-MC1.12.2.jar@191222/更新/.minecraft/mods/[CS][建筑][樱]Sakura-V0.0.7.1-MC1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][建筑生成]RecurrentComplex-1.4.8.2.jar@191222/更新/.minecraft/mods/[CS][建筑][建筑生成]RecurrentComplex-1.4.8.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][屋顶]mcw-roofs-1.0.1-mc1.12.2.jar@191222/更新/.minecraft/mods/[CS][建筑][屋顶]mcw-roofs-1.0.1-mc1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][凿子]Chisel-MC1.12.2-1.0.1.44.jar@191222/更新/.minecraft/mods/[CS][建筑][凿子]Chisel-MC1.12.2-1.0.1.44.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods\D2249AF8A61002EE976FCEA804E46F3B@remove"></it>
+<it key="" value=".minecraft\mods\7ABB352B6D3C0CD12A8248F0173AD064@remove"></it>
+<it key="" value=".minecraft\mods\3C682134CB068047C18A4B3506AD2A71@remove"></it>
+<it key="" value=".minecraft\mods\CB7CFB84DB212394AA8EE8C70F26738B@remove"></it>
+<it key="" value=".minecraft\mods\DBDA5475859BCFFC9F572C5A1506A1F4@remove"></it>
+<it key="" value=".minecraft\mods\B8667D60A761D5B5AE3C8A15192F9E28@rename@[CS][科技][AE2]appliedenergistics2-rv6-stable-7.jar"></it>
+</items>
+</version>
+
 <version value="V1.15">
 <item key="updateInfo" value="版本号: V1.15
 重大更新:
