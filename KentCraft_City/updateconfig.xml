@@ -1,6 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="V1.17">
+<item key="updateInfo" value="版本号: V1.17
+KentCraft_City祝大家圣诞节快乐!
+本次圣诞节更新内容:
+1.更新樱
+2.更新养鸡致富套餐
+3.更新方块信息
+4.新增档案柜
+5.新增抱枕(可自定义图像,可放于床上)
+6.新增怪物头
+
+更新时间: 2019-12-25">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[CS][辅助][更多方块信息]topaddons-1.12.2-1.12.0.jar@191225/更新/.minecraft/mods/[CS][辅助][更多方块信息]topaddons-1.12.2-1.12.0.jar"></it>
+<it key="" value=".minecraft\mods\[CS][装饰][抱枕]dakimakuramod-1.12.2-1.5.jar@191225/更新/.minecraft/mods/[CS][装饰][抱枕]dakimakuramod-1.12.2-1.5.jar"></it>
+<it key="" value=".minecraft\mods\[CS][装饰][怪物头]jmh_1.12-2.1.jar@191225/更新/.minecraft/mods/[CS][装饰][怪物头]jmh_1.12-2.1.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][樱]Sakura-V0.0.7.2-MC1.12.2.jar@191225/更新/.minecraft/mods/[CS][建筑][樱]Sakura-V0.0.7.2-MC1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][存储][仿真档案柜]realfilingcabinet-1.12-0.2.0.19.jar@191225/更新/.minecraft/mods/[CS][存储][仿真档案柜]realfilingcabinet-1.12-0.2.0.19.jar"></it>
+<it key="" value=".minecraft\mods\[CS][养鸡致富]roost-1.12.2-2.0.10.jar@191225/更新/.minecraft/mods/[CS][养鸡致富]roost-1.12.2-2.0.10.jar"></it>
+<it key="" value=".minecraft\mods\[CS][养鸡致富]morechickens-1.12.2-3.1.0.jar@191225/更新/.minecraft/mods/[CS][养鸡致富]morechickens-1.12.2-3.1.0.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key=".minecraft\mods\ism-2@remove" value=""></it>
+<it key="" value=".minecraft\mods\52184028B340C7FC9C5894327F962D35@remove"></it>
+<it key="" value=".minecraft\mods\FF0865EB07665F06946CE1C1A6A7001F@remove"></it>
+<it key="" value=".minecraft\mods\CD8A7CCF0950C7019FC26F9679B73FB0@remove"></it>
+</items>
+</version>
+
 <version value="V1.16">
 <item key="updateInfo" value="版本号: V1.16
 1.更新旅行地图至最新版
