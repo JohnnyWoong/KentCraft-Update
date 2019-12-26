@@ -1,5 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
+  
+<version value="V1.18">
+<item key="updateInfo" value="版本号: V1.18
+1.更新鼠标手势
+2.更新JEI
+3.更新潘马斯套餐
+4.更新更多箱子
+5.更新樱
+6.更新中式工坊
+7.更新装饰工艺套餐
+8.新增墓碑
+9.新增家具
+10.移除冗余文件
+
+更新时间: 2019-12-27">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[C][辅助][鼠标手势]MouseTweaks-2.10-mc1.12.2.jar@191227/更新/.minecraft/mods/[C][辅助][鼠标手势]MouseTweaks-2.10-mc1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][辅助][墓碑]tombstone-3.6.4-1.12.2.jar@191227/更新/.minecraft/mods/[CS][辅助][墓碑]tombstone-3.6.4-1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][装饰工艺前置]PTRLib-1.0.4.jar@191227/更新/.minecraft/mods/[CS][装饰工艺前置]PTRLib-1.0.4.jar"></it>
+<it key="" value=".minecraft\mods\[CS][装饰工艺]Decocraft-2.6.3_1.12.2.jar@191227/更新/.minecraft/mods/[CS][装饰工艺]Decocraft-2.6.3_1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][潘马斯]Pam's HarvestCraft 1.12.2zf.jar@191227/更新/.minecraft/mods/[CS][潘马斯]Pam's HarvestCraft 1.12.2zf.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][樱]Sakura-V0.0.7.3-MC1.12.2.jar@191227/更新/.minecraft/mods/[CS][建筑][樱]Sakura-V0.0.7.3-MC1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][家具]furniture-6.3.1-1.12.2.jar@191227/更新/.minecraft/mods/[CS][建筑][家具]furniture-6.3.1-1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][中式工坊]ChineseWorkshop-1.12.2_1.2.6.jar@191227/更新/.minecraft/mods/[CS][建筑][中式工坊]ChineseWorkshop-1.12.2_1.2.6.jar"></it>
+<it key="" value=".minecraft\mods\[CS][存储][更多箱子]ironchest-1.12.2-7.0.72.847.jar@191227/更新/.minecraft/mods/[CS][存储][更多箱子]ironchest-1.12.2-7.0.72.847.jar"></it>
+<it key="" value=".minecraft\mods\[CS][JEI更多潘马斯配方查询]just-enough-harvestcraft-1.12.2-1.7.0.jar@191227/更新/.minecraft/mods/[CS][JEI更多潘马斯配方查询]just-enough-harvestcraft-1.12.2-1.7.0.jar"></it>
+<it key="" value=".minecraft\mods\[CS][JEI]jei_1.12.2-4.15.0.293.jar@191227/更新/.minecraft/mods/[CS][JEI]jei_1.12.2-4.15.0.293.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods\E4F1E4819512203114A9424C4AB79FD0@remove"></it>
+<it key="" value=".minecraft\mods\7EC95C57AC1A224D6EB93BD370E4AC37@remove"></it>
+<it key="" value=".minecraft\mods\3DD7FD6ADF07B305389C26A23FEADAAD@remove"></it>
+<it key="" value=".minecraft\mods\241A28A767464FA15F9BD642C2D9F673@remove"></it>
+<it key="" value=".minecraft\mods\09C1721819D1DDD02CA01F97D7AC8EDA@remove"></it>
+<it key="" value=".minecraft\mods\F1AF752DD335560A3429242E361D15A4@remove"></it>
+<it key="" value=".minecraft\mods\FA6F9E95A35E78EDB10363147718B6BE@remove"></it>
+<it key="" value=".minecraft\mods\A99F001BF9A7417D85BDDF8B7710BECB@remove"></it>
+<it key="" value=".minecraft\mods\2A46090298B61B0BE262EC8C6F67CD09@remove"></it>
+<it key="" value=".minecraft\mods\CB4AC16615839333428A9E99F9C20F0F@remove"></it>
+<it key="" value=".minecraft\mods\E8493ECCACEFB41896B72AE37FD683DD@remove"></it>
+<it key="" value=".minecraft\mods\02F985065E7A2FDD17196B3030A067A4@remove"></it>
+</items>
+</version>
 
 <version value="V1.17">
 <item key="updateInfo" value="版本号: V1.17
