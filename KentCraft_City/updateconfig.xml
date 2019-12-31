@@ -1,34 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
-
-<version value="V1.20">
-<item key="updateInfo" value="版本号: V1.20
-这将是本年度的最后一个更新
-KentCraft_City在这提前祝大家元旦快乐(*^▽^*)
-本次更新内容:
-1.更新rftools套餐
-2.更新循环
-3.更新启动器
-
-更新时间: 2019-12-31
-">
-</item>
-<items>
-<it key="" value=".minecraft\mods\[CS][循环]Cyclic-1.12.2-1.19.19.jar@191231/更新/.minecraft/mods/[CS][循环]Cyclic-1.12.2-1.19.19.jar"></it>
-<it key="" value=".minecraft\mods\[CS][工具箱]rftoolsdim-1.12-5.71.jar@191231/更新/.minecraft/mods/[CS][工具箱]rftoolsdim-1.12-5.71.jar"></it>
-<it key="" value=".minecraft\mods\[CS][工具箱]rftoolsctrl-1.12-2.0.2.jar@191231/更新/.minecraft/mods/[CS][工具箱]rftoolsctrl-1.12-2.0.2.jar"></it>
-<it key="" value=".minecraft\mods\[CS][工具箱]rftools-1.12-7.72.jar@191231/更新/.minecraft/mods/[CS][工具箱]rftools-1.12-7.72.jar"></it>
-<it key="" value=".minecraft\mods\[CS][工具箱]mcjtylib-1.12-3.5.4.jar@191231/更新/.minecraft/mods/[CS][工具箱]mcjtylib-1.12-3.5.4.jar"></it>
-<it key="" value="KentCraft启动器 v191231.exe@191231/更新/KentCraft启动器 v191231.exe"></it>
-<it key=".minecraft\mods@add" value=""></it>
-<it key=".minecraft@add" value=""></it>
-<it key="" value=".minecraft\mods\95486CDFBCC23E932ED7A1F57F3C3965@remove"></it>
-<it key="" value=".minecraft\mods\F99DF9DB11A2289F78D6D1213B6FA757@remove"></it>
-<it key="" value=".minecraft\mods\24274A9E8E99B82573E7399E309B8737@remove"></it>
-<it key="" value=".minecraft\mods\2B18579CAB884E967FF99DE428ABBC3B@remove"></it>
-<it key="" value=".minecraft\mods\0B153A029D2AA3D760CCC07749C8879C@remove"></it>
-</items>
-</version>
  
 <version value="V1.19">
 <item key="updateInfo" value="版本号: V1.19
