@@ -1,6 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
  
+<version value="V1.20">
+<item key="updateInfo" value="版本号: V1.20
+KentCraft_City在这提前祝大家元旦快乐(*^▽^*)
+这也将是本年度的最后一个更新
+本次更新内容:
+1.更新循环
+2.更新启动器">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[CS][循环]Cyclic-1.12.2-1.19.19.jar@191231/更新/.minecraft/mods/[CS][循环]Cyclic-1.12.2-1.19.19.jar"></it>
+<it key="" value="KentCraft启动器 v191231.exe@191231/更新/KentCraft启动器 v191231.exe"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods\95486CDFBCC23E932ED7A1F57F3C3965@remove"></it>
+</items>
+</version>
+ 
 <version value="V1.19">
 <item key="updateInfo" value="版本号: V1.19
 1.更新皮肤
