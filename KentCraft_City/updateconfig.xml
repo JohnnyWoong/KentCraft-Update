@@ -1,6 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
  
+<version value="V1.21">
+<item key="updateInfo" value="版本号: V1.21
+KentCraft_City在这恭祝大家元旦快乐!
+本次更新了rftools套餐
+
+更新时间: 2020-01-01">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[CS][更好的叶子和音乐前置]Forgelin-1.8.4.jar@200101/更新/.minecraft/mods/[CS][更好的叶子和音乐前置]Forgelin-1.8.4.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][粒子效果方块]nice-1.12-0.4.0.jar@200101/更新/.minecraft/mods/[CS][建筑][粒子效果方块]nice-1.12-0.4.0.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具箱和粒子效果前置]mcjtylib-1.12-3.5.4.jar@200101/更新/.minecraft/mods/[CS][工具箱和粒子效果前置]mcjtylib-1.12-3.5.4.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具箱]rftoolspower-1.12-1.2.0.jar@200101/更新/.minecraft/mods/[CS][工具箱]rftoolspower-1.12-1.2.0.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具箱]rftoolsdim-1.12-5.71.jar@200101/更新/.minecraft/mods/[CS][工具箱]rftoolsdim-1.12-5.71.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具箱]rftoolsctrl-1.12-2.0.2.jar@200101/更新/.minecraft/mods/[CS][工具箱]rftoolsctrl-1.12-2.0.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具箱]rftools-1.12-7.72.jar@200101/更新/.minecraft/mods/[CS][工具箱]rftools-1.12-7.72.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods\59035365F7AF35F599D1C4BAADE64D8B@remove"></it>
+<it key="" value=".minecraft\mods\F49DD830B06592CA3694C11CC3BB0721@remove"></it>
+<it key="" value=".minecraft\mods\F99DF9DB11A2289F78D6D1213B6FA757@remove"></it>
+<it key="" value=".minecraft\mods\24274A9E8E99B82573E7399E309B8737@remove"></it>
+<it key="" value=".minecraft\mods\2B18579CAB884E967FF99DE428ABBC3B@remove"></it>
+<it key="" value=".minecraft\mods\0B153A029D2AA3D760CCC07749C8879C@remove"></it>
+</items>
+</version>
+ 
 <version value="V1.20">
 <item key="updateInfo" value="版本号: V1.20
 KentCraft_City在这提前祝大家元旦快乐(*^▽^*)
