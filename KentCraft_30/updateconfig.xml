@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+ 
+<version value="V0.01">
+<item key="updateInfo" value="版本号: V0.01
+1.现在圈地不要求相邻土地
+2.去除口渴度设定
+
+更新时间: 2020-01-04">
+</item>
+<items>
+<it key="" value=".minecraft.zip@200104/更新/.minecraft.zip@unzip"></it>
+</items>
+</version>
+
+</config>
