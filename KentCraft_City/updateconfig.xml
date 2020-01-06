@@ -18,10 +18,10 @@
 <it key=".minecraft\mods@add" value=""></it>
 <it key=".minecraft@add" value=""></it>
 <it key=".minecraft\config@remove" value=""></it>
-<it key="" value=".minecraft\mod\4601BA2741F192BCD01D132AA3E219B5@remove"></it>
-<it key="" value=".minecraft\mod\C79A39F1F1F55AC75436A3B3BA36284D@remove"></it>
-<it key="" value=".minecraft\mod\2DA79FCE72265EAB0541E565636D389D@remove"></it>
-<it key="" value=".minecraft\mod\2E0C2397E28622892C4176DE75D92F7E@remove"></it>
+<it key="" value=".minecraft\mods\4601BA2741F192BCD01D132AA3E219B5@remove"></it>
+<it key="" value=".minecraft\mods\C79A39F1F1F55AC75436A3B3BA36284D@remove"></it>
+<it key="" value=".minecraft\mods\2DA79FCE72265EAB0541E565636D389D@remove"></it>
+<it key="" value=".minecraft\mods\2E0C2397E28622892C4176DE75D92F7E@remove"></it>
 <it key=".minecraft\config@backup" value=""></it>
 <it key="Backup\.minecraft@add" value=""></it>
 <it key="Backup@add" value=""></it>
