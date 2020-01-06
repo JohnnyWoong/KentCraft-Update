@@ -1,6 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
- 
+
+<version value="V1.22">
+<item key="updateInfo" value="版本号: V1.22
+1.移除等价交换
+2.更新仿真档案柜
+3.更新生长工艺
+提示:本次更新会替换整个config文件夹
+如需找回原来配置,请到Backup文件夹寻找
+
+更新时间: 2020-01-06">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[CS][种植][生长工艺]growthcraft-1.12.2-4.1.2.jar@200106/更新/.minecraft/mods/[CS][种植][生长工艺]growthcraft-1.12.2-4.1.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][存储][仿真档案柜]realfilingcabinet-1.12-0.2.0.20.jar@200106/更新/.minecraft/mods/[CS][存储][仿真档案柜]realfilingcabinet-1.12-0.2.0.20.jar"></it>
+<it key="" value="config.zip@200106/更新/config.zip@unzip"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key=".minecraft\config@remove" value=""></it>
+<it key="" value=".minecraft\mod\4601BA2741F192BCD01D132AA3E219B5@remove"></it>
+<it key="" value=".minecraft\mod\C79A39F1F1F55AC75436A3B3BA36284D@remove"></it>
+<it key="" value=".minecraft\mod\2DA79FCE72265EAB0541E565636D389D@remove"></it>
+<it key="" value=".minecraft\mod\2E0C2397E28622892C4176DE75D92F7E@remove"></it>
+<it key=".minecraft\config@backup" value=""></it>
+<it key="Backup\.minecraft@add" value=""></it>
+<it key="Backup@add" value=""></it>
+</items>
+</version>
+
 <version value="V1.21">
 <item key="updateInfo" value="版本号: V1.21
 KentCraft_City在这恭祝大家元旦快乐!
