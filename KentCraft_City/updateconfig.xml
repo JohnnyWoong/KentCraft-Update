@@ -1,6 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="V1.23">
+<item key="updateInfo" value="版本号: V1.23
+客户端优化
+
+更新时间: 2020-01-07">
+</item>
+<items>
+<it key="" value="KentCraft启动器 v200106.exe@200107/更新/KentCraft启动器 v200106.exe"></it>
+<it key=".minecraft\config\rftools@remove" value=""></it>
+<it key="" value=".minecraft\config\F9879B845DAF6B7D018054B2E483B599@remove"></it>
+<it key="" value=".minecraft\config\3D6AB7BAB90FFF0053AD9B772AC0C895@remove"></it>
+</items>
+</version>
+
 <version value="V1.22">
 <item key="updateInfo" value="版本号: V1.22
 1.移除等价交换
