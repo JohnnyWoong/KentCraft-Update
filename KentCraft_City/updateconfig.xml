@@ -13,6 +13,7 @@
 ">
 </item>
 <items>
+<it key=".minecraft\config\rftools@remove" value=""></it>
 <it key="" value=".minecraft\mods\B0E941BBE88602CB0271C870FA9572B5@remove"></it>
 <it key="" value=".minecraft\mods\AFD405E1BA3857A4BFF72C394C3540AF@remove"></it>
 </items>
