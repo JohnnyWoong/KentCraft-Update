@@ -1,6 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="V1.24">
+<item key="updateInfo" value="版本号: V1.24
+好消息,好消息,KentCraft_City终于恢复正常啦
+移除了rfpower
+移除了抱枕(卡服元凶)
+没错,就是它,就是它
+因为它老Kent差点把我剁成馅肉了(╯﹏╰)b
+
+更新时间: 2020-01-07
+">
+</item>
+<items>
+<it key="" value=".minecraft\mods\B0E941BBE88602CB0271C870FA9572B5@remove"></it>
+<it key="" value=".minecraft\mods\AFD405E1BA3857A4BFF72C394C3540AF@remove"></it>
+</items>
+</version>
+
 <version value="V1.23">
 <item key="updateInfo" value="版本号: V1.23
 客户端优化
