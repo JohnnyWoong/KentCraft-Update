@@ -1,6 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="V1.26">
+<item key="updateInfo" value="版本号: V1.26
+1.更新懒人厨房
+2.更新樱
+3.新增手册增强
+4.新增更好的动物
+5.新增更多的动物
+6.新增超多食物
+
+更新时间: 2020-01-12">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[CS][食物][超多食物]XL-Food-Mod-1.12.2-1.9.2.jar@200112/更新/.minecraft/mods/[CS][食物][超多食物]XL-Food-Mod-1.12.2-1.9.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][食物][懒人厨房]CookingForBlockheads_1.12.2-6.4.71.jar@200112/更新/.minecraft/mods/[CS][食物][懒人厨房]CookingForBlockheads_1.12.2-6.4.71.jar"></it>
+<it key="" value=".minecraft\mods\[CS][辅助][手册增强]Patchouli-1.1-24.jar@200112/更新/.minecraft/mods/[CS][辅助][手册增强]Patchouli-1.1-24.jar"></it>
+<it key="" value=".minecraft\mods\[CS][生态][更好的动物]betteranimals-5.2.1.jar@200112/更新/.minecraft/mods/[CS][生态][更好的动物]betteranimals-5.2.1.jar"></it>
+<it key="" value=".minecraft\mods\[CS][生态][更多的动物]betteranimalsplus-1.12.2-8.1.1.jar@200112/更新/.minecraft/mods/[CS][生态][更多的动物]betteranimalsplus-1.12.2-8.1.1.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][樱]Sakura-V0.0.8-MC1.12.2.jar@200112/更新/.minecraft/mods/[CS][建筑][樱]Sakura-V0.0.8-MC1.12.2.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods\942D63804263B04516EB49DDBA125E59@remove"></it>
+<it key="" value=".minecraft\mods\20353E43EF86B33EA8EA6803A7D188AD@remove"></it>
+</items>
+</version>
+
 <version value="V1.25">
 <item key="updateInfo" value="版本号: V1.25
 1.新增末影存储
