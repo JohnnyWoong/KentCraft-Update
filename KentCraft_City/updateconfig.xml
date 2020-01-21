@@ -1,6 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="V1.27">
+<item key="updateInfo" value="版本号: V1.27
+1.更新墓碑
+2.更新rftools
+3.更新懒人厨房
+4.新增更多的动物
+5.新增超多食物
+6.新增夸克
+
+更新时间: 2020-01-21">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[CS][食物][超多食物]XL-Food-Mod-1.12.2-1.9.2.jar@200121/更新/.minecraft/mods/[CS][食物][超多食物]XL-Food-Mod-1.12.2-1.9.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][食物][懒人厨房]CookingForBlockheads_1.12.2-6.5.0.jar@200121/更新/.minecraft/mods/[CS][食物][懒人厨房]CookingForBlockheads_1.12.2-6.5.0.jar"></it>
+<it key="" value=".minecraft\mods\[CS][辅助][墓碑]tombstone-3.6.5-1.12.2.jar@200121/更新/.minecraft/mods/[CS][辅助][墓碑]tombstone-3.6.5-1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][生态][更多的动物]betteranimalsplus-1.12.2-8.1.1.jar@200121/更新/.minecraft/mods/[CS][生态][更多的动物]betteranimalsplus-1.12.2-8.1.1.jar"></it>
+<it key="" value=".minecraft\mods\[CS][工具]rftools-1.12-7.73.jar@200121/更新/.minecraft/mods/[CS][工具]rftools-1.12-7.73.jar"></it>
+<it key="" value=".minecraft\mods\[CS][优化][夸克前置]AutoRegLib-1.3-32.jar@200121/更新/.minecraft/mods/[CS][优化][夸克前置]AutoRegLib-1.3-32.jar"></it>
+<it key="" value=".minecraft\mods\[CS][优化][夸克]Quark-r1.6-177.jar@200121/更新/.minecraft/mods/[CS][优化][夸克]Quark-r1.6-177.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods\995FFD1AF0F16BDAE20AB62B46FCD492@remove"></it>
+<it key="" value=".minecraft\mods\2137EF5A19E934C40D9087F6B8086A7A@remove"></it>
+<it key="" value=".minecraft\mods\F05EEA6CA1AEA64E5742CB15D6DC79C1@remove"></it>
+</items>
+</version>
+
 <version value="V1.26">
 <item key="updateInfo" value="版本号: V1.26
 1.更新懒人厨房
