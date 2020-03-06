@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+
+<version value="V1.0">
+<item key="updateInfo" value="版本号: V1.0
+33周目ATM正式上线啦
+
+更新时间: 2020-03-06">
+</item>
+<items>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+</items>
+</version>
+
+</config>
