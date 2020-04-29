@@ -1,5 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
+
+<version value="1.29">
+<item key="updateInfo" value="版本号: 1.29
+1.add car mod
+
+更新时间: 2020-04-29">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[CS][建筑][载具前置]obfuscate-0.4.2-1.12.2.jar@200429/更新/.minecraft/mods/[CS][建筑][载具前置]obfuscate-0.4.2-1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][载具]vehicle-mod-0.43.5-1.12.2.jar@200429/更新/.minecraft/mods/[CS][建筑][载具]vehicle-mod-0.43.5-1.12.2.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+</items>
+</version>
  
 <version value="1.28">
 <item key="updateInfo" value="版本号: 1.28
