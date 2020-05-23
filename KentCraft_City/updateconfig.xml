@@ -1,6 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+<version value="1.30">
+<item key="updateInfo" value="版本号: 1.30
+1.更新樱
+2.更新铁路战争
+3.新增星辉魔法
+4.新增娘化
+5.移除循环
+6.移除传送枪
+7.移除自定义NPC
+8.移除更多动物
+
+更新时间: 2020-05-23">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[C][辅助][怪物娘化]YarrCuteMobModelsRemake-1.0.16-1.12.0.jar@200523/更新/.minecraft/mods/[C][辅助][怪物娘化]YarrCuteMobModelsRemake-1.0.16-1.12.0.jar"></it>
+<it key="" value=".minecraft\mods\[CS][魔法][星辉魔法]Baubles-1.12-1.5.2.jar@200523/更新/.minecraft/mods/[CS][魔法][星辉魔法]Baubles-1.12-1.5.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][魔法][星辉魔法]astralsorcery-1.12.2-1.10.23.jar@200523/更新/.minecraft/mods/[CS][魔法][星辉魔法]astralsorcery-1.12.2-1.10.23.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][樱前置]MMLib-1.3.0.jar@200523/更新/.minecraft/mods/[CS][建筑][樱前置]MMLib-1.3.0.jar"></it>
+<it key="" value=".minecraft\mods\[CS][建筑][樱]Sakura-0.0.9.3-1.12.2.jar@200523/更新/.minecraft/mods/[CS][建筑][樱]Sakura-0.0.9.3-1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][交通][铁路战争]RailsOfWar-1.12.2-2004-2o1.jar@200523/更新/.minecraft/mods/[CS][交通][铁路战争]RailsOfWar-1.12.2-2004-2o1.jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods\D41D8CD98F00B204E9800998ECF8427E@remove"></it>
+<it key="" value=".minecraft\mods\3AD2493AB7D4D9F93A31DC34C5F87312@remove"></it>
+<it key="" value=".minecraft\mods\BF13A2044ECE544B449C7DC6F8AA40AF@remove"></it>
+<it key="" value=".minecraft\mods\2219E579132B53719EF21EA78934F4C3@remove"></it>
+<it key="" value=".minecraft\mods\6E547A041A277C41BD4042F6930BC4A7@remove"></it>
+<it key="" value=".minecraft\mods\48D63B4C1B7F90ED856E1DF53D78F951@remove"></it>
+<it key="" value=".minecraft\mods\E1AA2B8F65C36DB968FD4B83E97D5ECA@remove"></it>
+<it key="" value=".minecraft\mods\09D2DDF2358829E07C6FCEAB37ED7866@remove"></it>
+</items>
+</version> 
+ 
 <version value="1.29">
 <item key="updateInfo" value="版本号: 1.29
 1.add car mod
