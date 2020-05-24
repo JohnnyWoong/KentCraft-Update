@@ -1,6 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+ <version value="1.32">
+<item key="updateInfo" value="版本号: 1.32
+1.移除星辉魔法
+很可惜，星辉魔法有崩服bug，家园服以稳定为前提，所暂时移除星辉魔法，有缘再相见。
+
+更新时间: 2020-05-24">
+</item>
+<items>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value="[CS][魔法][星辉魔法]Baubles-1.12-1.5.2.jar@remove"></it>
+<it key="" value="[CS][魔法][星辉魔法]astralsorcery-1.12.2-1.10.23.jar@remove"></it>
+</items>
+</version>
+ 
  <version value="1.31">
 <item key="updateInfo" value="版本号: 1.31
 1.重新移除自定义NPC
