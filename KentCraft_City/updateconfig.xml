@@ -11,6 +11,9 @@
 <it key="" value=".minecraft\mods.zip@200527/更新/.minecraft/mods.zip@unzip"></it>
 <it key=".minecraft@add" value=""></it>
 <it key=".minecraft\mods@remove" value=""></it>
+<it key=".minecraft\mods@backup" value=""></it>
+<it key="Backup\.minecraft@add" value=""></it>
+<it key="Backup@add" value=""></it>
 </items>
 </version>
 
