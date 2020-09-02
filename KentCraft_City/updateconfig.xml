@@ -1,6 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+ <version value="1.33">
+<item key="updateInfo" value="版本号: 1.33
+1.移除近期新增的额外的载具，解决卡服问题
+
+更新时间: 2020-09-02">
+</item>
+<items>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value=".minecraft\mods\1657ABE4C857A7644AB5BB905D39471A@remove"></it>
+<it key="" value=".minecraft\mods\F900CFBE4437435BF2D8F1DD88D7DF8A@remove"></it>
+<it key="" value=".minecraft\mods\50F595AE096D70CB1AB2286E915DC5D9@remove"></it>
+<it key="" value=".minecraft\mods\BDA7FA0D38C9F4A5E4589CDEF5949223@remove"></it>
+</items>
+</version>
+ 
 <version value="1.32">
 <item key="updateInfo" value="版本号: 1.32
 1.移除星辉魔法
