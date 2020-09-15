@@ -1,6 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
 
+ <version value="1.34">
+<item key="updateInfo" value="版本号: 1.34
+1.新增 沉浸火车
+2.新增 交通标志
+3.移除 建筑生成
+4.移除 海树山花
+5.移除 熟悉动物
+
+更新时间: 2020-09-15">
+</item>
+<items>
+<it key="" value=".minecraft\mods\[CS][交通][沉浸火车]TrackAPI-1.2.jar@200915/更新/.minecraft/mods/[CS][交通][沉浸火车]TrackAPI-1.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][交通][沉浸火车]ImmersiveRailroading-1.7.3_1.12.2.jar@200915/更新/.minecraft/mods/[CS][交通][沉浸火车]ImmersiveRailroading-1.7.3_1.12.2.jar"></it>
+<it key="" value=".minecraft\mods\[CS][交通][交通装饰]Traffico+[pre-release+3].jar@200915/更新/.minecraft/mods/[CS][交通][交通装饰]Traffico+[pre-release+3].jar"></it>
+<it key=".minecraft\mods@add" value=""></it>
+<it key=".minecraft@add" value=""></it>
+<it key="" value="A3BDDAABA80627FF68F7C634C4098941@remove"></it>
+<it key="" value="0B44614578A9B52F1B5A75E312FDCF23@remove"></it>
+<it key="" value="66A0650199273A4F7AEBD57EA59AD441@remove"></it>
+<it key="" value="F1A23CB6EAA682240C0ECDAB65E7857F@remove"></it>
+<it key="" value="821B38BA97B03EB79D64DB797DB67DAC@remove"></it>
+</items>
+</version>
+ 
  <version value="1.33">
 <item key="updateInfo" value="版本号: 1.33
 1.移除近期新增的额外的载具，解决卡服问题
